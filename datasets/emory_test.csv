@@ -1,0 +1,985 @@
+Utterance,Speaker,Emotion,Scene_ID,Utterance_ID,Season,Episode,Start_Time,End_Time
+"I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys. I have no brackety thing, I see no whim guys whatsoever and- I cannot feel my legs.",['Ross Geller'],Mad,4,1,1,1,09:34.9,09:51.4
+I'm thinking we've got a bookcase here.,['Joey Tribbiani'],Neutral,4,3,1,1,09:39.5,09:42.2
+It's a beautiful thing.,['Chandler Bing'],Joyful,4,4,1,1,09:43.4,09:48.2
+What's this?,['Joey Tribbiani'],Neutral,4,5,1,1,09:48.3,09:51.4
+Which goes where?,['Joey Tribbiani'],Neutral,4,7,1,1,09:53.0,09:57.3
+I have no idea.,['Chandler Bing'],Scared,4,8,1,1,09:54.3,09:57.3
+Done with the bookcase!,['Joey Tribbiani'],Joyful,4,10,1,1,09:59.1,10:01.6
+All finished!,['Chandler Bing'],Joyful,4,11,1,1,10:05.1,10:06.9
+"This was Carol's favorite beer. She always drank it out of the can, I should have known.",['Ross Geller'],Sad,4,12,1,1,10:09.0,10:15.1
+"Yes, please don't spoil all this fun.",['Chandler Bing'],Scared,4,14,1,1,11:51.0,11:53.6
+You guys.,['Ross Geller'],Sad,4,16,1,1,11:53.8,11:56.7
+"Oh, God.",['Chandler Bing'],Sad,4,17,1,1,11:58.6,12:02.6
+You got screwed.,['Joey Tribbiani'],Mad,4,18,1,1,12:02.8,12:05.3
+Oh my God!,['Chandler Bing'],Mad,4,19,1,1,12:05.8,12:07.2
+Oh my God!,['Monica Geller'],Mad,5,1,1,1,12:10.9,12:14.4
+#NAME?,['Monica Geller'],Joyful,5,5,1,1,12:14.7,12:16.7
+"That's one way! Me, I- I went for the watch.",['Paul the Wine Guy'],Joyful,5,6,1,1,18:51.3,18:58.3
+"Ooh, steer clear of you.",['Paul the Wine Guy'],Peaceful,5,8,1,1,18:55.3,18:58.3
+That's right.,['Monica Geller'],Powerful,5,9,1,1,18:58.5,19:00.0
+I'm divorced! I'm only 26 and I'm divorced!,['Ross Geller'],Sad,7,1,1,1,22:10.5,22:13.9
+Shut up!,['Joey Tribbiani'],Mad,7,2,1,1,22:12.2,22:13.9
+You must stop!,['Chandler Bing'],Mad,7,3,1,1,22:14.0,22:16.2
+That only took me an hour.,['Ross Geller'],Sad,7,4,1,1,22:17.3,22:19.8
+Stay out of my freezer!,['Chandler Bing'],Mad,7,9,1,1,22:20.0,22:24.8
+Isn't there?,['Paul the Wine Guy'],Scared,8,5,1,1,22:22.8,22:24.8
+It's okay...,['Paul the Wine Guy'],Sad,8,9,1,1,22:26.7,22:29.2
+Two years.,['Paul the Wine Guy'],Neutral,8,11,1,1,22:29.3,22:32.6
+"...Yeah. Yeah, I do.",['Monica Geller'],Neutral,8,14,1,1,22:33.1,22:38.4
+"Angela's the screamer, Andrea has cats.",['Chandler Bing'],Joyful,10,3,1,1,22:35.1,22:38.4
+"Hey, Monica!",['Franny'],Joyful,12,1,1,1,22:44.2,22:46.2
+Guys? There's a somebody I'd like you to meet.,['Ross Geller'],Neutral,1,1,1,10,00:07.9,00:11.4
+Oooh!,['#ALL#'],Joyful,1,3,1,10,00:12.1,00:13.6
+W-wait. What is that?,['Monica Geller'],Scared,1,4,1,10,00:13.8,00:15.6
+'That' would be Marcel. You wanna say hi?,['Ross Geller'],Joyful,1,5,1,10,00:15.8,00:17.5
+"No, no, I don't.",['Monica Geller'],Scared,1,6,1,10,00:17.7,00:19.0
+"Oh, he is precious! Where did you get him?",['Rachel Green'],Joyful,1,7,1,10,00:19.2,00:21.3
+My friend Bethel rescued him from some lab.,['Ross Geller'],Neutral,1,8,1,10,00:21.5,00:23.6
+That is so cruel! Why? Why would a parent name their child Bethel?,['Phoebe Buffay'],Neutral,1,9,1,10,00:23.8,00:28.7
+"Hey, that monkey's got a Ross on its ass!",['Chandler Bing'],Joyful,1,10,1,10,00:31.8,00:33.7
+"Ross, is he gonna live with you, like, in your apartment?",['Monica Geller'],Neutral,1,11,1,10,00:39.0,00:42.0
+"Yeah. I mean, it's been kinda quiet since Carol left, so...",['Ross Geller'],Neutral,1,12,1,10,00:42.2,00:45.3
+Why don't you just get a roommate?,['Monica Geller'],Neutral,1,13,1,10,00:45.5,00:47.3
+"Nah, I dunno... I think you reach a certain age, having a roommate is kinda pathe- ....sorry, that's, that's 'pathet', which is Sanskrit for 'really cool way to live'.",['Ross Geller'],Sad,1,14,1,10,00:47.5,00:58.9
+"...But, you can't actually test this theory, because today's particle accelerators are nowhere near powerful enough to simulate these conditions.",['David'],Powerful,4,1,1,10,08:20.0,08:35.8
+"Okay, alright, I have a question, then.",['Phoebe Buffay'],Neutral,4,2,1,10,08:35.9,08:41.6
+Yuh.,['David'],Neutral,4,3,1,10,08:39.0,08:41.6
+"Um, were you planning on kissing me ever?",['Phoebe Buffay'],Neutral,4,4,1,10,08:41.8,08:50.1
+"Uh, that's definitely a, uh, valid question. And, uh, the answer would be yes. Yes I was. But, see, I wanted it to be this phenomenal kiss that happened at this phenomenal moment, because, well, 'cause it's you.",['David'],Joyful,4,5,1,10,08:46.8,09:08.7
+Sure.,['Phoebe Buffay'],Neutral,4,6,1,10,08:50.2,08:52.4
+"Right. But, see, the longer I waited, the more phenomenal the kiss had to be, and now we've reached a place where it's just gotta be one of those things where I just like... sweep everything off the table and throw you down on it. And, uh, I'm not really a, uh, sweeping sorta fella.",['David'],Scared,4,7,1,10,09:07.5,09:23.5
+Rrrreally.,['David'],Neutral,4,9,1,10,09:08.9,09:12.9
+"Oh, yeah, oh, I'm sure of it. You should just do it, just sweep and throw me.",['Phoebe Buffay'],Joyful,4,10,1,10,09:33.4,09:38.0
+...Now? Now?,['David'],Scared,4,11,1,10,09:35.2,09:38.0
+"Oh yeah, right now.",['Phoebe Buffay'],Powerful,4,12,1,10,09:41.4,09:43.5
+"Okay, now you're just kinda tidying.",['Phoebe Buffay'],Neutral,4,14,1,10,09:43.7,09:51.4
+"Okay, what the hell, what the hell. You want me to actually throw you or you-you wanna just hop?",['David'],Joyful,4,15,1,10,09:55.7,10:06.0
+I can hop.,['Phoebe Buffay'],Joyful,4,16,1,10,09:59.3,10:06.0
+Hello?,['Phoebe Buffay'],Scared,6,1,1,10,10:03.1,10:06.0
+Hey!,['David'],Joyful,6,2,1,10,10:22.4,10:26.2
+Hi.,['Phoebe Buffay'],Neutral,6,3,1,10,10:26.4,10:27.5
+Hi! What-what're you doing here?,['David'],Joyful,6,4,1,10,10:27.7,10:30.3
+"Um, well, Max told me about Minsk, so congratulations! This is so exciting!",['Phoebe Buffay'],Joyful,6,5,1,10,12:27.5,12:48.2
+It'd be even more exciting if we were going.,['Max'],Sad,6,6,1,10,12:51.5,12:55.5
+"Oh, you're not going? Oh, why?",['Phoebe Buffay'],Joyful,6,7,1,10,12:53.4,12:55.5
+"Thank you, Max. Thank you.",['David'],Peaceful,6,9,1,10,12:56.2,12:59.2
+So-so you're really not going?,['Phoebe Buffay'],Neutral,6,10,1,10,12:59.8,13:04.2
+I don't know. I don't know what I'm gonna do. I just- you decide.,['David'],Neutral,6,11,1,10,13:09.2,13:18.6
+Oh don't do that.,['Phoebe Buffay'],Scared,6,12,1,10,13:13.4,13:15.2
+Please.,['David'],Neutral,6,13,1,10,13:15.3,13:18.6
+Oh no no.,['Phoebe Buffay'],Neutral,6,14,1,10,13:19.4,13:22.0
+"No, but I'm asking-",['David'],Neutral,6,15,1,10,13:20.8,13:22.0
+"Oh, but I can't do that-",['Phoebe Buffay'],Neutral,6,16,1,10,13:22.2,13:24.3
+"No, but I can't-",['David'],Scared,6,17,1,10,13:24.4,13:27.1
+"It's your thing, and-",['Phoebe Buffay'],Neutral,6,18,1,10,13:29.3,13:41.0
+-make the decision-,['David'],Neutral,6,19,1,10,13:38.8,13:41.0
+"Okay, um, stay.",['Phoebe Buffay'],Neutral,6,20,1,10,13:42.3,13:44.3
+Stay.,['David'],Neutral,6,21,1,10,13:51.4,13:52.9
+Stay.,['Phoebe Buffay'],Neutral,6,22,1,10,13:53.1,13:55.2
+Getting so good at that!,['Phoebe Buffay'],Joyful,6,24,1,10,13:55.4,13:59.0
+It was Max's stuff.,['David'],Peaceful,6,25,1,10,13:59.1,14:05.4
+Ross kissed me.,['Rachel Green'],Joyful,1,2,2,8,00:05.0,00:07.3
+"Oh my god, oh my god, oh my god!",['Monica Geller'],Joyful,1,3,2,8,00:07.5,00:09.8
+It was unbelievable!,['Rachel Green'],Joyful,1,4,2,8,00:10.0,00:11.5
+"Oh my god, oh my god, oh my god!",['Monica Geller'],Joyful,1,5,2,8,00:11.7,00:14.8
+"Oh, it ended very well.",['Rachel Green'],Neutral,1,7,2,8,00:15.0,00:18.6
+Oh.,['Phoebe Buffay'],Neutral,1,8,2,8,00:16.6,00:18.6
+Do not start without me. Do not start without me.,['Monica Geller'],Neutral,1,9,2,8,00:23.1,00:29.4
+"Well, at first it was really intense, you know. And then, oh, god, and then we just sort of sunk into it.",['Rachel Green'],Joyful,1,11,2,8,00:38.9,00:46.3
+"Ok, so, ok, was he holding you? Or was his hand like on your back?",['Phoebe Buffay'],Neutral,1,12,2,8,00:43.4,00:50.7
+"No, actually first they started on my waist. And then, they slid up, and then, they were in my hair.",['Rachel Green'],Joyful,1,13,2,8,00:50.8,00:57.2
+Ohhhh.,"['Monica Geller', 'Phoebe Buffay']",Joyful,1,14,2,8,00:54.6,00:57.2
+"This is a nice resume. Nice, nice, nice. Muy impressivo.",['Mr. Ratstatter'],Joyful,4,2,2,8,04:56.8,05:05.8
+"So, Mr. Rastatter, what exactly does this job entail? The ad wasn't too clear.",['Monica Geller'],Neutral,4,3,2,8,05:06.0,05:16.4
+Mockolate.,['Mr. Ratstatter'],Neutral,4,4,2,8,05:07.3,05:08.9
+I'm sorry?,['Monica Geller'],Scared,4,5,2,8,05:09.1,05:11.6
+Mockolate. It's a completely synthetic chocolate substitute.,['Mr. Ratstatter'],Neutral,4,6,2,8,05:17.9,05:23.6
+Ohh.,['Monica Geller'],Scared,4,7,2,8,05:19.3,05:21.2
+"Go ahead. Try a piece. Yeah, we think that Mockolate is even better than chocolate.",['Mr. Ratstatter'],Powerful,4,8,2,8,05:24.6,05:31.7
+All right. Mmm-mmm.,['Monica Geller'],Mad,4,9,2,8,05:25.9,05:28.5
+Yeah?,['Mr. Ratstatter'],Neutral,4,10,2,8,05:27.1,05:28.5
+"I love how it crumbles. Now see, your chocolate doesn't do that.",['Monica Geller'],Mad,4,11,2,8,05:38.9,05:47.6
+"No, ma'am. Well, anyhoo, we should be getting our F.D.A. approval any day now, hopefully, in time for Thanksgiving. See, the way we look at it, chocolate already dominates most of your major food-preparation holidays: Easter, Christmas, what have you.",['Mr. Ratstatter'],Powerful,4,12,2,8,05:43.4,06:02.6
+Mmm-mmm.,['Monica Geller'],Mad,4,13,2,8,05:44.8,05:47.6
+"But, we're thinking, given the right marketing, we can make Thanksgiving the Mockolate holiday.",['Mr. Ratstatter'],Powerful,4,14,2,8,06:02.7,06:08.6
+Wow.,['Monica Geller'],Neutral,4,15,2,8,06:06.0,06:08.6
+Aren't you going to swallow that?,['Mr. Ratstatter'],Neutral,4,16,2,8,06:10.0,06:13.9
+Just waiting for it to stop bubbling.,['Monica Geller'],Mad,4,17,2,8,06:14.6,06:17.0
+"Yeah, isn't that great?",['Mr. Ratstatter'],Powerful,4,18,2,8,06:17.3,06:18.7
+Mmm.,['Monica Geller'],Mad,4,19,2,8,06:18.9,06:21.0
+"Abso... ...lutely. See, I love creating new recipes. I love Thanksgiving. And, well, now, I love Mockolate.",['Monica Geller'],Joyful,4,21,2,8,06:22.8,06:36.7
+Really?,['Mr. Ratstatter'],Powerful,4,22,2,8,06:26.5,06:27.7
+"Especially the after taste, you know, I'll tell ya, that'll last ya till Christmas.",['Monica Geller'],Joyful,4,23,2,8,06:36.9,06:44.0
+How about Mockolate mousse?,['Monica Geller'],Neutral,5,2,2,8,06:38.3,06:42.3
+"It's not, it's not very Thanksgiving-y.",['Phoebe Buffay'],Mad,5,3,2,8,06:39.6,06:42.3
+"Ok, how about pilgrim Mockolate mousse?",['Monica Geller'],Neutral,5,4,2,8,06:42.5,06:45.9
+What makes it pilgrim?,['Phoebe Buffay'],Neutral,5,5,2,8,06:44.2,06:50.6
+We'll put buckles on it.,['Monica Geller'],Joyful,5,6,2,8,06:49.2,06:52.3
+Hey.,['Rachel Green'],Neutral,5,7,2,8,06:51.1,06:52.3
+Hey.,['Phoebe Buffay'],Neutral,5,8,2,8,06:52.5,06:54.1
+Hey.,['Monica Geller'],Neutral,5,9,2,8,06:54.6,06:57.1
+"Did uh, Ross call?",['Rachel Green'],Neutral,5,10,2,8,06:58.1,06:59.3
+"No, I'm sorry.",['Monica Geller'],Sad,5,11,2,8,06:59.7,07:02.0
+"No offense, but that sounds nothing like her.",['Phoebe Buffay'],Powerful,5,13,2,8,07:23.2,07:26.0
+"Oh, I know. This must be so hard. Oh, no. Two women love me. They're both gorgeous and sexy. My wallet's too small for my fifties, and my diamond shoes are too tight.",['Chandler Bing'],Mad,6,3,2,8,07:33.2,07:44.6
+"Hey, here's a thought, Ross.",['Joey Tribbiani'],Peaceful,6,4,2,8,07:38.7,07:41.9
+Don't touch the computer. Don't ever touch the computer.,['Chandler Bing'],Mad,6,5,2,8,07:42.1,07:50.0
+"Ross, listen. I got two words for you. Threesome.",['Joey Tribbiani'],Joyful,6,6,2,8,07:51.1,07:55.8
+"Ok, all right, look. Let's get logical about this, ok? We'll make a list. Rachel and Julie, pros and cons. Oh. We'll put their names in bold, with different fonts, and I can use different colors for each column.",['Chandler Bing'],Peaceful,6,7,2,8,07:54.1,08:14.3
+Can't we just use a pen?,['Ross Geller'],Neutral,6,8,2,8,07:59.2,08:02.0
+"No, Amish boy.",['Chandler Bing'],Joyful,6,9,2,8,08:02.2,08:03.8
+"Ok, let's start with the cons, 'cause they're more fun. All right, Rachel first.",['Joey Tribbiani'],Neutral,6,10,2,8,08:14.7,08:22.8
+"I don't know. I mean, all right, I guess you can say she's a little spoiled sometimes.",['Ross Geller'],Peaceful,6,11,2,8,08:22.9,08:33.4
+You could say that.,['Joey Tribbiani'],Neutral,6,12,2,8,08:25.0,08:27.3
+Waitress. Got it. You guys wanna play Doom? Or we could keep doing this. What else?,['Chandler Bing'],Joyful,6,14,2,8,08:50.8,09:01.8
+I don't know.,['Ross Geller'],Neutral,6,15,2,8,08:52.8,08:56.8
+"Oh, her ankles are a little chubby.",['Joey Tribbiani'],Joyful,6,16,2,8,09:05.2,09:11.0
+"Ok, let's do Julie. What's wrong with her?",['Chandler Bing'],Neutral,6,17,2,8,09:08.5,09:14.2
+She's not Rachel.,['Ross Geller'],Sad,6,18,2,8,09:12.8,09:14.2
+"Ok, this is pumpkin pie with mockolate cookie crumb crust. This is mockolate cranberry cake, and these are mockolate chip cookies. Just like the Indians served.",['Monica Geller'],Neutral,7,2,2,8,09:16.0,09:34.8
+Oh my god.,['Rachel Green'],Mad,7,3,2,8,09:19.4,09:21.8
+Oh my god good?,['Monica Geller'],Scared,7,4,2,8,09:25.4,09:28.5
+"Oh my god, I can't believe you let me put this in my mouth.",['Rachel Green'],Mad,7,5,2,8,09:32.6,09:44.5
+"Oh, oh sweet Lord! This is what evil must taste like!",['Phoebe Buffay'],Sad,7,6,2,8,09:44.7,09:49.0
+"You know, that's true. You'd be a great person to have around the day after an emergency.",['Monica Geller'],Powerful,9,3,2,8,15:17.8,15:26.3
+"Hey, cut him some slack. It was Chandler's idea.",['Joey Tribbiani'],Neutral,9,5,2,8,15:29.8,15:36.6
+What?,['Phoebe Buffay'],Neutral,9,6,2,8,15:33.4,15:36.6
+What?,['Monica Geller'],Neutral,9,7,2,8,15:36.9,15:38.2
+"Oh good, I was hoping that would come up.",['Chandler Bing'],Joyful,9,8,2,8,15:38.5,15:41.0
+This was your idea?,['Monica Geller'],Neutral,9,9,2,8,15:42.1,15:43.4
+What were you thinking?,['Phoebe Buffay'],Neutral,9,10,2,8,15:43.6,15:48.2
+Yeah. You!,['Monica Geller'],Neutral,9,12,2,8,15:48.4,15:49.6
+"All right, Pheebs, back me up here, ok? You believe in that karma crap, don't you?",['Chandler Bing'],Scared,9,13,2,8,15:49.7,15:55.7
+"Yeah, by the way, good luck in your next life as a dung beetle.",['Phoebe Buffay'],Neutral,9,14,2,8,15:56.0,15:59.8
+"Rach! Whoops! Rach, hey, open up, please!",['Ross Geller'],Scared,10,2,2,8,16:11.7,16:24.0
+"When somebody does not buzz you in, Ross, that means go away. That doesn't mean please climb up the fire escape.",['Rachel Green'],Mad,10,3,2,8,16:20.3,16:30.7
+I just wanna read something. It's your pro list.,['Ross Geller'],Neutral,10,4,2,8,16:28.4,16:33.4
+Not interested.,['Rachel Green'],Mad,10,5,2,8,16:30.9,16:33.4
+"Ok, ok, number one: The way you cry at game shows. Number two: how much you love your friends. Number three: the way you play with your hair when you're nervous. Number four: how brave you are for starting your life over. Number five: how great you are with Ben.",['Ross Geller'],Neutral,10,6,2,8,16:33.8,16:56.1
+Number six: the way you smell.,['Ross Geller'],Peaceful,10,7,2,8,16:35.4,16:40.4
+"Hey, Ross! What are you doin'?",['Joey Tribbiani'],Peaceful,10,8,2,8,16:37.1,16:40.4
+"Hey, Joey. You wanna open the window?",['Ross Geller'],Neutral,10,9,2,8,16:40.7,16:44.3
+"Oh, yeah, I do.",['Joey Tribbiani'],Joyful,10,10,2,8,16:44.5,16:48.6
+What are you doing out there?,['Chandler Bing'],Neutral,10,11,2,8,16:48.8,16:52.7
+"I am, uh, I am...",['Ross Geller'],Scared,10,12,2,8,16:52.8,16:56.1
+"Oh, you must be freezing. You know what you need? How about a nice steaming cup of hot Mockolate?",['Monica Geller'],Peaceful,10,13,2,8,17:09.7,17:16.1
+"Rach, come on, open up. Rach, come on, come on, Rach. You got to give me another chance.",['Ross Geller'],Scared,10,14,2,8,17:12.5,17:25.3
+No.,['Rachel Green'],Mad,10,15,2,8,17:19.7,17:21.0
+No?,['Ross Geller'],Scared,10,16,2,8,17:21.2,17:22.2
+That's what I said.,['Rachel Green'],Mad,10,17,2,8,17:22.4,17:25.3
+"Look, maybe we should go?",['Chandler Bing'],Scared,10,18,2,8,17:25.7,17:29.5
+"No, you guys, you really don't have to go, we're done talking.",['Rachel Green'],Mad,10,19,2,8,17:27.5,17:33.2
+"Rach, come on, look, I know how you must feel.",['Ross Geller'],Scared,10,20,2,8,17:31.1,17:35.0
+"No, you don't, Ross. Imagine the worst things you think about yourself. Now, how would you feel if the one person that you trusted the most in the world not only thinks them too, but actually uses them as reasons not to be with you.",['Rachel Green'],Sad,10,21,2,8,17:33.4,17:52.0
+"No, but, but I wanna be with you in spite of all those things.",['Ross Geller'],Peaceful,10,22,2,8,17:47.9,17:56.6
+"Oh, well, that's, that's mighty big of you, Ross. I said don't go!",['Rachel Green'],Sad,10,23,2,8,17:57.4,18:06.2
+"Well, then, I guess that's the difference between us. See, I'd never make a list.",['Rachel Green'],Scared,10,25,2,8,18:11.5,18:18.2
+"Now, in some of these recipes, the quantities may seem just a little unusual, uh, like these coconut mockolate holiday nut bars. I've indicated four cups of coconut, and four cups of crushed nut, and only, uh, one tablespoon of mockolate.",['Monica Geller'],Neutral,11,2,2,8,18:43.2,19:03.2
+Doesn't matter.,['Mr. Ratstatter'],Neutral,11,3,2,8,18:50.2,18:53.3
+What?,['Monica Geller'],Scared,11,4,2,8,18:53.5,18:56.4
+Our FDA approval didn't come through. Something about laboratory rats.,['Mr. Ratstatter'],Sad,11,5,2,8,19:00.0,19:09.4
+"Oh, gosh, I'm sorry.",['Monica Geller'],Sad,11,6,2,8,19:04.4,19:09.4
+"Yeah, well, anyhoo, here is your check. Thank you for all the trouble you went through. Um, listen, you didn't eat a lot of it while you were cooking, did you?",['Mr. Ratstatter'],Sad,11,7,2,8,19:06.9,19:26.6
+"Well, uh, I ate some.",['Monica Geller'],Scared,11,8,2,8,19:09.6,19:12.5
+"Oh, some, that's fine. Some is fine. Some is not a lot. So, it doesn't burn when you pee, does it?",['Mr. Ratstatter'],Neutral,11,9,2,8,19:26.8,19:35.6
+Hello?,['Monica Geller'],Neutral,12,3,2,8,19:28.6,19:30.8
+Hi.,['Ross Geller'],Neutral,12,4,2,8,19:31.0,19:32.4
+"Is that him again? Tell him I'd come to the phone, but my ankles are weighin' me down.",['Rachel Green'],Peaceful,12,5,2,8,19:32.6,19:58.8
+"Listen, I... I don't think this is the best time.",['Monica Geller'],Neutral,12,6,2,8,20:01.4,20:06.8
+"Look, can, can you do something for me?",['Ross Geller'],Scared,12,7,2,8,20:03.8,20:08.9
+"Sure, what? Ok, ok. Music?",['Monica Geller'],Powerful,12,8,2,8,20:07.0,20:13.9
+"The next one's dedicated to Rachel from Ross. Rachel, he wants you to know he's deeply sorry for what he did and he hopes you can find it in your heart to forgive him.",['Radio'],Powerful,12,9,2,8,20:12.3,20:36.3
+"Uh, we've just gotten a call from Rachel, and she told us what Ross did. It's pretty appalling, and Ross, if you're listening, I don't wanna play your song anymore. Why don't we devote our time to a couple that stands a chance? Avery, Michelle's sorry she hit you with her car and she hopes you two will work it out.",['Radio'],Joyful,12,10,2,8,21:03.3,21:32.3
+"Hi, thanks for coming in again.",['Mr. Ratstatter'],Neutral,13,2,2,8,21:07.7,21:09.8
+"Oh, not at all. I have no morals and I need the cash.",['Monica Geller'],Sad,13,3,2,8,22:02.7,22:11.7
+"It's like I'm lookin' in a mirror. Anyway, they're called ""fishtachios"". They taste exactly like pistachios, but they're made primarily of reconstituted fish bits. Here, try one. You're not allergic to anything, are you?",['Mr. Ratstatter'],Neutral,13,4,2,8,22:12.0,22:30.7
+Cat hair.,['Monica Geller'],Sad,13,5,2,8,22:15.3,22:18.4
+"Oh, sorry.",['Mr. Ratstatter'],Sad,13,6,2,8,22:19.4,22:22.1
+"Honey, you made the bed again. I told you, you don't have to do that. This isn't camp.",['Monica Geller'],Joyful,2,2,2,23,01:38.4,02:42.8
+"Ooh, then I guess the panty raid last night was totally uncalled for. Ok, I am going to take a shower and today I will be singing Jim Crochee's Leroy Brown.",['Richard Burke'],Joyful,2,3,2,23,02:43.0,02:53.3
+"Monica... Hey Mon, I have a question. Is Leroy the baddest man in the whole damn town or the fattest man in the whole damn town?",['Richard Burke'],Powerful,2,4,2,23,03:03.8,03:13.3
+Baddest. Otherwise the song would be Fat Fat Leroy Brown.,['Monica Geller'],Joyful,2,5,2,23,03:11.4,03:18.4
+What're you doing?,['Richard Burke'],Neutral,2,6,2,23,03:14.2,03:18.4
+Just waiting for you sweetie.,['Monica Geller'],Joyful,2,7,2,23,03:19.2,03:25.1
+Are you remaking the bed?,['Richard Burke'],Neutral,2,8,2,23,03:22.1,03:25.1
+"I'm sorry, I'm sorry. You know what, the way you did it was just fine.",['Monica Geller'],Sad,2,9,2,23,03:27.5,03:33.5
+"Then, you're redoing it because...",['Richard Burke'],Neutral,2,10,2,23,03:30.4,03:33.5
+"If I tell you, you'll think I'm crazy.",['Monica Geller'],Sad,2,11,2,23,03:33.8,03:38.1
+You're pretty much running that risk either way.,['Richard Burke'],Scared,2,12,2,23,03:38.2,03:41.3
+"Ok, you see, the tag shouldn't be at the top left corner, it should be at the bottom right corner.",['Monica Geller'],Sad,2,13,2,23,03:42.9,03:51.5
+"Oh, well that's not so crazy.",['Richard Burke'],Neutral,2,14,2,23,03:45.4,03:49.2
+I'm just easing you in.,['Monica Geller'],Joyful,2,15,2,23,03:49.4,03:51.5
+"Oh, alright.",['Richard Burke'],Neutral,2,16,2,23,03:51.6,03:54.6
+"Alright, you see these little flower blossoms? They should be facing up, not down, because, well, the head of the bed is where the sun would be. You don't love me any more do you.",['Monica Geller'],Peaceful,2,17,2,23,03:54.8,04:11.2
+"Actually, if it's possible, I love you more.",['Richard Burke'],Peaceful,2,18,2,23,04:09.3,04:16.5
+"Really? Wow, well then come on, I wanna show you how to fold the toilet paper into a point.",['Monica Geller'],Joyful,2,19,2,23,04:13.5,04:25.9
+But don't you need experience for a job like that?,['Joey Tribbiani'],Scared,3,3,2,23,04:30.0,04:35.1
+"It's not that hard to learn. And as for people realizing you have no idea what you're doing, hey, you're an actor. Act like a processor, people will think you're a processor.",['Chandler Bing'],Peaceful,3,4,2,23,04:35.3,04:46.5
+"Hey Chandler, here's this morning's projections.",['Scott Alexander'],Joyful,3,5,2,23,04:37.5,04:38.9
+"Hey thanks. Scott Alexander, Joey Tribbianni. Joey is a uh, fellow processor.",['Chandler Bing'],Mad,3,6,2,23,04:50.4,04:56.1
+No kidding.,['Scott Alexander'],Peaceful,3,7,2,23,04:52.5,04:53.6
+"Oh yeah yeah. I process. People want the processing, I'm the one they call.",['Joey Tribbiani'],Powerful,3,8,2,23,04:53.8,05:05.6
+Where do you work?,['Scott Alexander'],Neutral,3,9,2,23,04:56.8,05:00.5
+"Uhh, well, right now I'm in between things. You know how it is. One day you're processing, the next day you're not so much... processing any more.",['Joey Tribbiani'],Neutral,3,10,2,23,05:07.0,05:16.9
+I was just telling Joey about the opening in Fleischman's group.,['Chandler Bing'],Neutral,3,11,2,23,05:14.1,05:19.7
+"Fleischman's group. Whatever you do, don't touch his sandwiches. Ha-ha-ha...",['Scott Alexander'],Joyful,3,12,2,23,05:19.8,05:25.9
+Ha-ha. Are all you processors dorks?,['Joey Tribbiani'],Joyful,3,13,2,23,05:21.6,05:24.1
+"Oh, this lipstick looks just great on you.",['Rachel Green'],Joyful,4,2,2,23,05:24.2,05:38.8
+"You look fabulous honey, you really do.",['Monica Geller'],Joyful,4,3,2,23,05:27.8,05:38.8
+"Yeah? Are you sure, really.",['Phoebe Buffay'],Joyful,4,4,2,23,05:35.2,05:38.8
+"You see, you look beautiful. For god sakes, dim the lights.",['Rachel Green'],Scared,4,5,2,23,05:41.7,05:49.6
+"I, I, I'm hideous.",['Phoebe Buffay'],Sad,4,6,2,23,05:46.3,05:49.6
+It's gonna be ok. Ryan's been under water. He's just gonna be so glad that you don't have barnicles on your butt.,['Monica Geller'],Neutral,4,7,2,23,05:50.2,06:00.5
+Come in.,['Phoebe Buffay'],Neutral,5,2,2,23,05:51.7,05:53.3
+"Hey baby, I'm back...",['Ryan'],Peaceful,5,3,2,23,05:53.5,05:55.0
+"Hey Ryan, what's up?",['Phoebe Buffay'],Neutral,5,4,2,23,05:55.2,06:00.5
+What's goin' on?,['Ryan'],Neutral,5,5,2,23,05:57.1,06:00.5
+"Well, no no, you have to stay back. I, I have the pox.",['Phoebe Buffay'],Sad,5,6,2,23,06:15.5,06:27.6
+Chicken or small?,['Ryan'],Neutral,5,7,2,23,06:17.2,06:19.4
+Chicken. Which is so ironic considering I'm a vegetarian.,['Phoebe Buffay'],Joyful,5,8,2,23,06:30.3,06:36.3
+Why aren't you at home in bed?,['Ryan'],Neutral,5,9,2,23,06:37.9,06:41.4
+"I'm sorry, I never had 'em.",['Ryan'],Scared,5,11,2,23,06:41.7,06:43.9
+"Ohh, ohh.",['Phoebe Buffay'],Scared,5,12,2,23,06:44.1,06:47.1
+"Yeah, or you know, you could just wish that I didn't have them now.",['Phoebe Buffay'],Mad,5,14,2,23,06:57.2,07:03.9
+Can I please see your face?,['Ryan'],Neutral,5,15,2,23,07:00.4,07:03.9
+Nope. You don't want to see a face covered with pox.,['Phoebe Buffay'],Scared,5,16,2,23,07:04.4,07:08.7
+"Your face could be covered with lochs, I wouldn't care.",['Ryan'],Peaceful,5,17,2,23,07:08.9,07:11.1
+"Sorry, the lightning. Lightning was an unfortunate incidence. You look lovely, lovely.",['Ryan'],Peaceful,5,19,2,23,07:25.2,07:35.2
+"I hate this. 'Cause I tell you, I had the most amazing two weeks planned for us, and almost everything I had in mind, we had to be a lot closer than this.",['Phoebe Buffay'],Sad,5,20,2,23,07:28.2,07:46.9
+"Ok, this is the most romantic disease I've ever had.",['Phoebe Buffay'],Joyful,5,22,2,23,07:59.6,08:12.8
+Hey.,['Joey Tribbiani'],Neutral,6,2,2,23,08:09.2,08:12.8
+"Hey, how's the first day goin'?",['Chandler Bing'],Peaceful,6,3,2,23,08:18.8,08:20.7
+Pretty good. It's like you said. It's mostly just putting numbers from one column into another column.,['Joey Tribbiani'],Peaceful,6,4,2,23,08:20.9,08:25.4
+Well there you go.,['Chandler Bing'],Neutral,6,5,2,23,08:22.4,08:25.4
+"Hey and everbody is so nice. I just had a good talk with that lady with the red hair, Jeannie.",['Joey Tribbiani'],Joyful,6,6,2,23,08:25.6,08:31.4
+"Jeannie, the head of east coast operations Jeannie?",['Chandler Bing'],Neutral,6,7,2,23,08:31.8,08:34.6
+"Yeah, turns out our kids go to the same school. Small world huh?",['Joey Tribbiani'],Joyful,6,8,2,23,08:34.8,08:43.4
+Weird world. Your kids?,['Chandler Bing'],Neutral,6,9,2,23,08:41.2,08:43.4
+I figure my character has kids.,['Joey Tribbiani'],Neutral,6,10,2,23,08:44.4,08:49.7
+Ya know there isn't a part of that sentence I don't need explained.,['Chandler Bing'],Scared,6,11,2,23,08:46.9,08:55.1
+"Well, see when you're acting you need to think about stuff like that. My character, Joseph the processor guy, has two little girls, Ashley and Brittany. Ashley copies everything Brittany does.",['Joey Tribbiani'],Joyful,6,12,2,23,08:56.2,09:10.0
+"Well, invisible kids can be that way sometimes.",['Chandler Bing'],Peaceful,6,13,2,23,09:07.6,09:19.0
+"Yeah. Joseph and his wife, Karen, are thinking of having a third kid... Ya know what? Just did.",['Joey Tribbiani'],Joyful,6,14,2,23,09:14.6,09:24.9
+Really? Wow. That's some pretty powerful imaginary sperm you must have there.,['Chandler Bing'],Joyful,6,15,2,23,09:25.0,09:33.8
+You know what makes the itching even worse?,['Ryan'],Neutral,7,2,2,23,09:44.1,09:46.0
+That you don't stop talking about it.,['Phoebe Buffay'],Neutral,7,3,2,23,09:46.4,09:49.3
+Fine.,['Ryan'],Mad,7,4,2,23,09:50.2,09:53.1
+What're you doing? Are you scratching?,['Ryan'],Scared,7,6,2,23,09:53.3,09:56.8
+"No. This is what I do for luck, ok.",['Phoebe Buffay'],Powerful,7,7,2,23,10:05.4,10:10.6
+You're scratching. Give me the dice.,['Ryan'],Powerful,7,8,2,23,10:07.7,10:10.6
+No.,['Phoebe Buffay'],Powerful,7,9,2,23,10:11.7,10:13.2
+Give me the dice.,['Ryan'],Powerful,7,10,2,23,10:13.3,10:14.8
+"No. Here. There. Ooh, double sixes.",['Phoebe Buffay'],Powerful,7,11,2,23,10:14.9,10:17.3
+"We can't scratch. You know we can't, we'll scar.",['Ryan'],Neutral,7,12,2,23,10:17.4,10:22.8
+No.,['Ryan'],Powerful,7,14,2,23,10:20.5,10:22.8
+Give it.,['Phoebe Buffay'],Powerful,7,15,2,23,10:23.2,10:27.3
+No.,['Ryan'],Powerful,7,16,2,23,10:27.4,10:30.5
+"Yeah, come on. You know you want it, you know you want it too, come on. Let's just be bad, it'll feel so good.",['Phoebe Buffay'],Powerful,7,17,2,23,10:30.7,10:39.2
+Oh God help me.,['Ryan'],Scared,7,18,2,23,10:32.5,10:36.8
+"Now do me, do my back. Oh come on, harder.",['Phoebe Buffay'],Joyful,7,19,2,23,10:45.8,10:51.1
+"Oh, stop that, stop that right now.",['Rachel Green'],Mad,7,20,2,23,10:48.2,10:51.1
+"You know, I might have expected this of you Phoebe, but Ryan, you're a military man.",['Ross Geller'],Scared,7,21,2,23,11:02.5,11:10.8
+"You and Milton have to join us on the boat. Karen'll pack a lunch, you'll bring the kids, we'll make a day of it.",['Joey Tribbiani'],Joyful,8,2,2,23,11:04.8,11:16.7
+"Oh, that sounds lovely. We're gonna have to set that up. Oh, I better get back. Hope the baby feels better.",['Jeannie'],Joyful,8,3,2,23,11:16.9,11:22.6
+"Oh, thanks, thanks. Bye bye Jeannie.",['Joey Tribbiani'],Neutral,8,4,2,23,11:19.9,11:22.6
+Bye bye Joey.,['Jeannie'],Neutral,8,5,2,23,11:22.8,11:24.6
+What a phony.,['Joey Tribbiani'],Mad,8,6,2,23,11:24.7,11:26.8
+"Well, I'm sure you'll teach her a lesson when she steps off the dock onto nothing. Hey Mr. Douglas.",['Chandler Bing'],Mad,8,7,2,23,11:27.4,11:35.4
+Sir.,['Joey Tribbiani'],Neutral,8,8,2,23,11:31.9,11:35.4
+"Uh, listen Bing, I received your memo. So, we're not gonna receive the systems report until next Friday?",['Mr. Douglas'],Mad,8,9,2,23,11:37.1,11:43.4
+Well the people in my group wanna spend the holiday weekend with their families.,['Chandler Bing'],Neutral,8,10,2,23,11:40.7,11:46.2
+"I have a family, I'm gonna be here.",['Mr. Douglas'],Peaceful,8,11,2,23,11:46.4,11:49.2
+"Yeah Bing, what's that about?",['Joey Tribbiani'],Neutral,8,12,2,23,11:49.4,11:51.7
+"It's about cutting my people a little slack, ya know, for morale. Look, if you wanna see some rough numbers, I can get them to you by Wednesday.",['Chandler Bing'],Powerful,8,13,2,23,11:56.6,12:05.3
+Rough numbers?,['Mr. Douglas'],Mad,8,14,2,23,11:59.9,12:02.8
+This company was not built on rough numbers. Am I right Mr. Douglas.,['Joey Tribbiani'],Neutral,8,15,2,23,12:02.9,12:10.2
+Have the final numbers on my desk by Tuesday.,['Mr. Douglas'],Powerful,8,16,2,23,12:10.8,12:13.7
+"Uh, if you say so sir.",['Chandler Bing'],Neutral,8,17,2,23,12:13.9,12:18.8
+"Joseph's good, isn't he?",['Joey Tribbiani'],Joyful,8,18,2,23,12:16.7,12:18.8
+"Well, I'm going to kill you.",['Chandler Bing'],Mad,8,19,2,23,12:20.1,12:22.5
+"Hey, hey, I just figure Joseph's the kinda guy that likes to mix it up. Ya know, get in there, ruffle some feathers.",['Joey Tribbiani'],Joyful,8,20,2,23,12:23.7,12:31.5
+Why?,['Chandler Bing'],Neutral,8,21,2,23,12:28.4,12:31.5
+"Look, I'm sorry but that's what Joseph does, ok. If you try to pull somethin', he'll call you on it. 'What're you tryin' to pull,' he'll say.",['Joey Tribbiani'],Powerful,8,22,2,23,12:32.8,12:46.4
+Hey. Mr. Douglas is looking for you.,['Joey Tribbiani'],Neutral,10,2,2,23,12:39.6,12:41.8
+Why? Wh- wh- why is Mr. Douglas looking for me?,['Chandler Bing'],Scared,10,3,2,23,14:54.9,15:02.5
+'Cause he has a strong suspicion that you dropped the ball on the Lender project.,['Joey Tribbiani'],Powerful,10,4,2,23,14:57.7,15:06.8
+"Wha- wh- why, why, why does he suspect that?",['Chandler Bing'],Scared,10,5,2,23,15:07.6,15:13.8
+"Becasue at first he thought it was Joseph. But after he asked Joseph about it, turns out it was you. Anyway, I just thought you should know.",['Joey Tribbiani'],Neutral,10,6,2,23,15:11.3,15:22.9
+"What're you talking about, everybody loves Joseph.",['Joey Tribbiani'],Neutral,10,8,2,23,15:14.0,15:17.4
+"I don't, I hate Joseph, ok. I think he's a brown-nosing suck up.",['Chandler Bing'],Mad,10,9,2,23,15:38.1,15:46.1
+"Oh yeah. Well you can't fire Joseph. You know why, 'cause he's not in your department.",['Joey Tribbiani'],Neutral,10,10,2,23,15:40.9,15:48.0
+"Alright, ok, alright. So I can't fire Joseph but uh, I can sleep with his wife.",['Chandler Bing'],Mad,10,11,2,23,15:49.6,16:00.1
+Karen.,['Joey Tribbiani'],Neutral,10,12,2,23,15:51.5,15:52.6
+"Yeah, Karen. I'm thinking about having an affair with her. Oh, you know what? I just did.",['Chandler Bing'],Powerful,10,13,2,23,15:58.5,16:10.0
+Ahh. What the hell are you doing to me man.,['Joey Tribbiani'],Sad,10,14,2,23,16:10.2,16:16.5
+"Oh well it's not me, it's my character, Chandy. Yeah the rogue processor who seduces his co-worker's wives for sport and then laughs about it the next day at the water cooler. In fact, I have her panties right there in my drawer.",['Chandler Bing'],Powerful,10,15,2,23,16:14.7,16:32.1
+Really?,['Joey Tribbiani'],Scared,10,16,2,23,16:16.6,16:18.0
+"No freakshow, she's fictional.",['Chandler Bing'],Mad,10,17,2,23,16:18.1,16:22.0
+"Take it easy. If it means that much to you, I'll uh, I'll go find something else.",['Joey Tribbiani'],Neutral,10,18,2,23,16:32.3,16:42.2
+Thank you.,['Chandler Bing'],Peaceful,10,19,2,23,16:34.9,16:37.9
+"It's just that, I, I'm gonna miss Joseph. I liked him. His wife, she was hot.",['Joey Tribbiani'],Powerful,10,20,2,23,16:43.3,16:54.8
+Can I please take these off? I swear I won't scratch.,['Phoebe Buffay'],Sad,11,2,2,23,16:50.6,17:02.0
+"No sorry hon, Monica's orders.",['Rachel Green'],Neutral,11,3,2,23,16:53.2,17:02.0
+Well that wasn't easy.,['Ryan'],Neutral,11,4,2,23,16:56.0,17:02.0
+"Ok, dinner's on.",['Ross Geller'],Neutral,11,5,2,23,16:59.4,17:02.0
+And there's a peach cobbler warming in the oven so the plate's gonna be hot but that shouldn't be a problem for you.,['Rachel Green'],Powerful,11,6,2,23,17:02.2,17:19.2
+"Alright you kids, bye now.",['Ross Geller'],Neutral,11,7,2,23,17:06.4,17:12.1
+Bye.,"['Phoebe Buffay', 'Ryan']",Neutral,11,8,2,23,17:09.9,17:12.1
+"Oh look, a low budget puppet show.",['Ross Geller'],Joyful,11,9,2,23,17:12.5,17:14.9
+It's such a shame you can't see which finger I'm holding up.,['Phoebe Buffay'],Powerful,11,10,2,23,17:22.9,17:31.0
+Wine?,['Ryan'],Neutral,11,11,2,23,17:24.9,17:26.8
+Please.,['Phoebe Buffay'],Neutral,11,12,2,23,17:27.0,17:28.5
+"Oh, I spilled some.",['Ryan'],Sad,11,13,2,23,17:28.6,17:31.0
+I got it.,['Phoebe Buffay'],Neutral,11,14,2,23,17:31.1,17:38.9
+"I must tell you, you look beautiful tonight.",['Ryan'],Joyful,11,15,2,23,17:47.8,18:04.5
+What?,['Phoebe Buffay'],Neutral,11,16,2,23,18:02.6,18:04.5
+Sorry. You look beautiful.,['Ryan'],Joyful,11,17,2,23,18:05.3,18:13.2
+Oh.,['Phoebe Buffay'],Peaceful,11,18,2,23,18:08.1,18:09.5
+"You know what, that's it, that's it.",['Phoebe Buffay'],Powerful,11,19,2,23,18:12.2,18:32.7
+"Monica, wake up. Monica.",['Richard Burke'],Neutral,12,2,2,23,18:13.4,18:32.7
+What's up?,['Monica Geller'],Neutral,12,3,2,23,18:30.4,18:32.7
+I thought of a thing.,['Richard Burke'],Neutral,12,4,2,23,18:39.4,18:43.8
+Yeah?,['Monica Geller'],Neutral,12,5,2,23,18:41.1,18:43.8
+"Yeah. I have to sleep, have to, on this side of the bed.",['Richard Burke'],Neutral,12,6,2,23,19:04.3,19:19.9
+No honey. You have to sleep on this side of the bed because I have to sleep on this side of the bed.,['Monica Geller'],Mad,12,7,2,23,19:21.3,19:27.5
+Or so I would have you believe.,['Richard Burke'],Neutral,12,8,2,23,19:24.7,19:27.5
+"No. Big deal, so you have a side of the bed, everybody has a side of the bed.",['Monica Geller'],Peaceful,12,9,2,23,19:29.3,19:39.2
+"Hey come on, you haven't heard my reason yet.",['Richard Burke'],Mad,12,10,2,23,19:39.4,19:42.6
+"Alright, go on.",['Monica Geller'],Neutral,12,11,2,23,19:42.8,19:45.6
+"Ok, I have to sleep on the west side because I grew up in California and otherwise the ocean would be on the wrong side.",['Richard Burke'],Neutral,12,12,2,23,19:45.8,19:59.7
+"Oh my God, you're a freak.",['Monica Geller'],Joyful,12,13,2,23,19:48.5,19:51.5
+Yeah. How 'bout that.,['Richard Burke'],Neutral,12,14,2,23,19:51.7,19:57.0
+"So uh, Ryan, were you shipping off to?",['Rachel Green'],Joyful,13,2,2,23,20:06.2,20:15.3
+I really can't say.,['Ryan'],Neutral,13,3,2,23,20:12.2,20:15.3
+So do you have like any nuclear weapons on board?,['Ross Geller'],Joyful,13,4,2,23,20:15.4,20:19.6
+I can't say.,['Ryan'],Neutral,13,5,2,23,20:18.3,20:19.6
+"Well do you get to look through one of those like, those periscope thingys.",['Rachel Green'],Joyful,13,6,2,23,20:19.8,20:24.7
+"I'm sorry, but I can't say.",['Ryan'],Neutral,13,7,2,23,20:22.7,20:24.7
+"Wow, it, it's neat learning about submarines.",['Ross Geller'],Joyful,13,8,2,23,20:24.9,20:30.5
+"I better get out of here, I'm gonna miss my flight.",['Ryan'],Neutral,13,9,2,23,20:28.4,20:30.5
+"Ok, I'll walk you out.",['Phoebe Buffay'],Neutral,13,10,2,23,20:30.6,20:31.9
+Bye Ryan.,['Ross Geller'],Sad,13,11,2,23,20:32.0,20:34.6
+Pleasure.,['Ryan'],Neutral,13,12,2,23,20:39.7,20:44.5
+It was nice to meet you.,['Rachel Green'],Neutral,13,13,2,23,20:45.5,20:49.4
+Take care.,['Ryan'],Neutral,13,14,2,23,20:47.4,20:49.4
+You like that do ya?,['Ross Geller'],Joyful,13,16,2,23,20:49.5,20:55.1
+Oh yeah.,['Rachel Green'],Joyful,13,17,2,23,20:52.6,20:55.1
+I'll make some calls.,['Ross Geller'],Joyful,13,18,2,23,20:55.3,20:57.2
+Ok.,['Rachel Green'],Joyful,13,19,2,23,20:57.3,21:02.0
+Taxi.,['Ryan'],Neutral,13,22,2,23,21:02.2,21:03.7
+Bye you.,['Phoebe Buffay'],Joyful,13,23,2,23,21:13.1,21:21.5
+"Oh I'm sorry, we're clo-... Hey sailor.",['Rachel Green'],Neutral,14,2,2,23,21:20.5,21:36.5
+Is this what you had in mind?,['Ross Geller'],Neutral,14,3,2,23,21:35.0,21:43.0
+I'll say.,['Rachel Green'],Neutral,14,4,2,23,21:40.0,21:41.2
+I'm shipping out tomorrow.,['Ross Geller'],Neutral,14,5,2,23,21:41.4,21:43.0
+Here you go Pheebs. Who else wants one of my special homemade brownies?,['Rachel Green'],Joyful,1,2,3,8,00:02.1,00:07.6
+I will have one.,['Chandler Bing'],Peaceful,1,3,3,8,00:03.7,00:06.3
+"Okay, I'm not gonna have one.",['Chandler Bing'],Peaceful,1,5,3,8,00:06.5,00:12.2
+Neither will I.,['Ross Geller'],Peaceful,1,6,3,8,00:08.6,00:12.2
+"No, no, it's just my tooth.",['Phoebe Buffay'],Mad,1,7,3,8,00:10.1,00:12.2
+All right I'll have one.,['Chandler Bing'],Joyful,1,8,3,8,00:12.9,00:14.9
+"No thanks, I have a good one too. I just, I, I can't see him.",['Phoebe Buffay'],Scared,1,10,3,8,00:18.1,00:25.1
+See that is the problem with invisible dentists.,['Chandler Bing'],Joyful,1,11,3,8,00:25.4,00:28.2
+Why? Why can't you go to him?,['Ross Geller'],Scared,1,12,3,8,00:30.0,00:36.4
+"Because, every time I go to the dentist, somebody dies.",['Phoebe Buffay'],Scared,1,13,3,8,00:31.4,00:36.4
+"That is so weird, because every time I go to the dentist, I look down the hygienist's blouse.",['Chandler Bing'],Scared,1,14,3,8,00:37.7,00:46.3
+"Phoebe, what? Umm...what?!",['Rachel Green'],Scared,1,15,3,8,00:40.7,00:42.9
+And all these people actually died?,['Rachel Green'],Scared,1,17,3,8,00:43.9,00:49.3
+"Yes, while I was in the chair! That's why I take such good care of my teeth now, y'know, it's not about oral hygiene, I floss to save lives!",['Phoebe Buffay'],Scared,1,18,3,8,00:55.9,01:06.3
+"Pheebs, come on, you didn't kill anybody, these people just happened to die when you went to the dentist. It's, it's, it's just ah, a coincidence.",['Ross Geller'],Powerful,1,19,3,8,01:04.3,01:14.7
+"Well tell that to them. Oh! You can't, their dead.",['Phoebe Buffay'],Sad,1,20,3,8,01:13.3,01:17.7
+"Thanks, Gunther. Hey! Umm, can I get a napkin too?",['Ross Geller'],Peaceful,2,2,3,8,02:08.9,02:13.0
+"Oh, like you don't already have everything.",['Gunther'],Neutral,2,3,3,8,02:13.2,02:15.8
+Ow! Ow!,['Phoebe Buffay'],Joyful,2,4,3,8,02:17.6,02:24.9
+"Phoebe, your in pain, would you just go to the dentist, just go.",['Rachel Green'],Sad,2,5,3,8,02:21.2,02:27.1
+I promise.,['Rachel Green'],Peaceful,2,7,3,8,02:25.0,02:27.1
+"Although, don't feel like you can't visit.",['Phoebe Buffay'],Sad,2,8,3,8,02:27.3,02:30.6
+"Hey, is, is, is Chandler here?",['Joey Tribbiani'],Joyful,2,9,3,8,02:31.4,02:34.6
+"No, no he's not.",['Ross Geller'],Joyful,2,10,3,8,02:32.7,02:34.6
+"You guys, Joey just saw Janice kissing her ex-husband.",['Monica Geller'],Mad,2,11,3,8,02:37.2,02:48.6
+"Well, I was thinking about that and I, I think the best way would be, to not.",['Joey Tribbiani'],Scared,2,13,3,8,02:48.8,02:56.6
+"It'll kill him. I mean it'll, it'll just kill him.",['Joey Tribbiani'],Mad,2,15,3,8,03:02.2,03:07.5
+"Well, you could wait 'til I go to the dentist, maybe I'll kill him.",['Phoebe Buffay'],Mad,2,16,3,8,03:04.6,03:18.1
+Ewww! Ugly Naked Guy is using his new hammock. It's like a Play-Doo Fat Factory.,['Joey Tribbiani'],Mad,3,2,3,8,03:11.6,03:21.2
+"Okay, I have a problem I have to go into work for a few hours, some kids messed up the Homo Sapien display.",['Ross Geller'],Peaceful,3,4,3,8,03:44.3,03:51.6
+What did they do?,['Joey Tribbiani'],Neutral,3,5,3,8,03:47.6,03:50.0
+"Well, they painted over the word 'Sapien' for one thing, then they rearranged the figures, let's just leave it at that.",['Ross Geller'],Mad,3,6,3,8,03:50.1,04:00.6
+"So, do you want me to watch Ben for you?",['Monica Geller'],Peaceful,3,7,3,8,04:00.8,04:04.5
+"Yes, that's what I was going to ask, thank you.",['Ross Geller'],Powerful,3,8,3,8,04:02.7,04:07.5
+Whoa! Wait! Hello! What about me?,['Rachel Green'],Scared,3,9,3,8,04:04.7,04:07.5
+"You? You! Want to watch Ben? Yes! That'd be great, no, I just wanted to ask Monica, because I know how empty her life is.",['Ross Geller'],Scared,3,10,3,8,04:07.7,04:27.5
+"Hey-hey, Ross?",['Joey Tribbiani'],Neutral,3,11,3,8,04:15.5,04:18.0
+Yeah.,['Ross Geller'],Neutral,3,12,3,8,04:18.1,04:20.4
+I've got a science question.,['Joey Tribbiani'],Neutral,3,13,3,8,04:24.8,04:27.5
+Hmm?,['Ross Geller'],Neutral,3,14,3,8,04:27.7,04:33.5
+"Joey, Homo Sapiens are people.",['Ross Geller'],Peaceful,3,16,3,8,04:34.9,04:36.4
+"Hey-hey, I'm not judging.",['Joey Tribbiani'],Neutral,3,17,3,8,04:40.3,04:43.4
+"Hey! Hold on a minute, hold on a second. Do you think these pearls are nice?",['Chandler Bing'],Neutral,5,2,3,8,06:36.1,06:42.4
+I'd really prefer a mountain bike.,['Joey Tribbiani'],Joyful,5,3,3,8,06:40.1,06:42.4
+"Janice's birthday is coming up, I want to get her something speacial. Come in here with me.",['Chandler Bing'],Peaceful,5,4,3,8,06:42.7,06:53.2
+"That's a good idea, 'Dear Janice have a Hubba-Bubba birthday'. I would like to get her something serious.",['Chandler Bing'],Peaceful,5,6,3,8,07:01.3,07:11.1
+"Oh, you want something serious. Y'know what you should do, you should get her one of those um, barium enemas. Those are dead serious.",['Joey Tribbiani'],Peaceful,5,7,3,8,07:08.5,07:20.3
+"All right. Look, I'm gonna go in here, and you don't buy me anything ever.",['Chandler Bing'],Peaceful,5,8,3,8,07:14.8,07:25.1
+Why not?!,['Chandler Bing'],Peaceful,5,10,3,8,07:18.4,07:20.3
+"Oh God. Uh, okay, here's the thing, this is the thing, okay, the thing is...",['Joey Tribbiani'],Scared,5,11,3,8,07:30.7,07:41.7
+What is the thing?,['Chandler Bing'],Peaceful,5,12,3,8,07:34.0,07:36.3
+"Okay. I went down to the 'Mattress King' showroom and, and I saw Janice, kissing her ex-husband.",['Joey Tribbiani'],Scared,5,13,3,8,07:41.8,07:51.0
+What?,['Chandler Bing'],Mad,5,14,3,8,07:44.7,07:47.9
+They were in his office.,['Joey Tribbiani'],Scared,5,15,3,8,07:48.2,07:51.0
+"Well she, she wouldn't do that, she's with, she's with me.",['Chandler Bing'],Sad,5,16,3,8,07:52.9,08:02.3
+"I'm telling you man, I saw it.",['Joey Tribbiani'],Peaceful,5,17,3,8,08:02.5,08:06.2
+"Yeah, well, you're wrong! Okay, you're wrong.",['Chandler Bing'],Mad,5,18,3,8,08:04.3,08:08.1
+"I'm not wrong! I wish I was. I'm sorry. Bet that barium enema doesn't sound so bad now, huh?",['Joey Tribbiani'],Powerful,5,19,3,8,08:06.4,08:20.4
+It just makes more sense as an ensemble.,['Monica Geller'],Peaceful,6,2,3,8,08:23.2,08:28.0
+Right.,['Rachel Green'],Neutral,6,3,3,8,08:28.8,08:32.0
+"Besides, it takes the focus off the hat.",['Monica Geller'],Neutral,6,4,3,8,09:19.3,09:21.4
+No! Oh! You're alive! You're alive!,['Phoebe Buffay'],Scared,6,5,3,8,09:21.5,09:24.8
+"Sure, we have no money, go ahead.",['Monica Geller'],Scared,6,8,3,8,09:36.8,09:40.7
+"'Hey! You're not dead! Okay, see ya!'",['Phoebe Buffay'],Joyful,6,9,3,8,09:38.4,09:40.7
+Monica.,['Ben Geller'],Neutral,6,10,3,8,09:41.1,09:44.9
+Oh my God! He just said my name! Did you hear that?,['Monica Geller'],Joyful,6,11,3,8,12:40.7,12:49.6
+Monica bang!,['Ben Geller'],Joyful,6,12,3,8,12:43.4,12:45.1
+"Okay, I heard that.",['Rachel Green'],Peaceful,6,13,3,8,12:45.2,12:49.6
+Did he just say 'Monica bang'?,['Monica Geller'],Scared,6,14,3,8,12:50.2,12:53.7
+Uh-huh.,['Rachel Green'],Scared,6,15,3,8,12:52.2,12:53.7
+Oh my God! He's gonna rat me out!,['Monica Geller'],Scared,6,16,3,8,13:08.9,13:19.4
+Monica bang!,['Ben Geller'],Powerful,6,17,3,8,13:13.9,13:19.4
+You okay?,['Monica Geller'],Sad,6,20,3,8,13:17.7,13:19.4
+How's my Bing-a-ling?,['Janice Litman Goralnik'],Joyful,7,2,3,8,13:19.6,13:23.7
+Why are your eyes so white?,['Janice Litman Goralnik'],Neutral,7,4,3,8,13:23.8,13:26.1
+Oh my God!!,['Janice Litman Goralnik'],Scared,7,6,3,8,13:26.3,13:28.8
+All right!,['Chandler Bing'],Mad,7,7,3,8,13:29.0,13:30.5
+How did you know?,['Janice Litman Goralnik'],Powerful,7,8,3,8,13:30.6,13:33.9
+"Joey told me, he saw you two kissing.",['Chandler Bing'],Mad,7,9,3,8,14:59.0,15:05.1
+In the park?,['Janice Litman Goralnik'],Scared,7,10,3,8,15:03.6,15:05.1
+Just those two!,['Janice Litman Goralnik'],Joyful,7,12,3,8,15:06.6,15:09.7
+Here.,['Chandler Bing'],Neutral,7,15,3,8,15:11.7,15:15.5
+The receipt.,['Janice Litman Goralnik'],Scared,7,17,3,8,15:15.7,15:17.8
+I don't know.,['Janice Litman Goralnik'],Scared,7,19,3,8,15:20.2,15:22.0
+Okay. If you're alive you answer your phone!,['Phoebe Buffay'],Mad,7,20,3,8,15:45.9,15:52.7
+Yeah.,['Chandler Bing'],Powerful,9,3,3,8,15:48.9,15:50.4
+"Well, now we got a reason.",['Joey Tribbiani'],Powerful,9,4,3,8,15:51.0,15:52.7
+What?,['Chandler Bing'],Neutral,9,5,3,8,15:56.1,15:59.1
+"Well, we're fashioning a very long poking device.",['Joey Tribbiani'],Powerful,9,6,3,8,20:40.2,20:45.3
+All right.,['Chandler Bing'],Neutral,9,7,3,8,20:41.8,20:45.3
+"Hey uh, what's a matter?",['Joey Tribbiani'],Neutral,9,8,3,8,20:46.2,20:49.1
+I talked to Janice.,['Chandler Bing'],Neutral,9,9,3,8,20:49.5,20:54.3
+"I don't know, y'know. What, what, would you do?",['Chandler Bing'],Sad,9,13,3,8,22:00.0,22:09.5
+"Come on, tell me.",['Chandler Bing'],Scared,9,15,3,8,22:03.4,22:06.6
+I did!,['Rachel Green'],Powerful,10,5,3,8,22:06.8,22:09.5
+Monica did it?,['Ross Geller'],Mad,10,8,3,8,22:09.7,22:16.5
+Monica?,['Ross Geller'],Mad,10,10,3,8,22:12.0,22:16.5
+Yeah.,['Monica Geller'],Peaceful,10,11,3,8,22:16.7,22:19.9
+No. Why?,['Monica Geller'],Neutral,10,13,3,8,22:20.1,22:22.8
+Really?!,['Monica Geller'],Scared,10,15,3,8,22:23.0,22:25.3
+"Oh my God, I wrecked your baby!!",['Monica Geller'],Scared,10,17,3,8,22:25.7,22:42.7
+Monica bang! Monica bang! Ow!,['Ross Geller'],Joyful,10,20,3,8,22:37.6,22:46.1
+I'll get the hat.,['Rachel Green'],Neutral,10,21,3,8,22:39.6,22:46.1
+Okay.,['Janice Litman Goralnik'],Neutral,11,3,3,8,22:44.1,22:46.1
+"Wait a minute, wait. You're telling me this actress person is the only woman you ever wanted who didn't want you back?!",['Chandler Bing'],Joyful,1,2,3,20,00:02.4,00:09.5
+Yeah! Oh my God! Is this what it's like to be you?,['Joey Tribbiani'],Joyful,1,3,3,20,00:08.0,00:13.9
+"Wow, you're really crazy about her, huh?",['Monica Geller'],Joyful,1,4,3,20,00:15.2,00:18.3
+"Oh, it's so great to see you feeling like this!",['Phoebe Buffay'],Joyful,1,6,3,20,00:24.6,00:30.4
+Hey!,['Ross Geller'],Joyful,1,7,3,20,00:26.7,00:30.4
+Hey!,['#ALL#'],Joyful,1,8,3,20,00:32.3,00:33.9
+"Monica, uh Dad called this morning and ah, Aunt Silvia passed away.",['Ross Geller'],Sad,1,9,3,20,00:34.1,00:40.3
+"Yes!! Yes! Yeah, yeah, yeah!",['Monica Geller'],Joyful,1,10,3,20,00:36.5,00:40.3
+We were all pretty shaken up about it.,['Ross Geller'],Sad,1,11,3,20,00:41.7,00:49.8
+"Wait, am I missing something though? 'Cause I thought death was something that's supposed to be sad, in a way.",['Phoebe Buffay'],Neutral,1,12,3,20,00:47.2,00:54.4
+"Well ah, Aunt Silvia was, well not a nice person.",['Ross Geller'],Neutral,1,13,3,20,00:55.4,00:59.1
+"Oh, she was a cruel, cranky, old bitch! And I'm sorry she died. Did Dad say I get the dollhouse?",['Monica Geller'],Joyful,1,14,3,20,00:57.7,01:08.6
+You get the dollhouse.,['Ross Geller'],Neutral,1,15,3,20,00:59.3,01:03.3
+I get the dollhouse!,['Monica Geller'],Joyful,1,16,3,20,01:04.4,01:05.6
+"Wow, a house for dolls, that is so cool! When I was kid, I had a barrel.",['Phoebe Buffay'],Neutral,1,17,3,20,01:13.8,01:20.2
+"Uh, Pheebs, you had a barrel for a dollhouse?",['Joey Tribbiani'],Neutral,1,18,3,20,01:17.9,01:20.2
+"No, just a barrel.",['Phoebe Buffay'],Neutral,1,19,3,20,01:21.5,01:23.5
+"Y'know what, you can play with my dollhouse.",['Monica Geller'],Joyful,1,20,3,20,01:24.2,01:29.4
+Really?! Really?!,['Phoebe Buffay'],Joyful,1,21,3,20,01:27.2,01:29.4
+"Any time you want. Y'know, when I was younger, all I wanted to do was to play with this dollhouse, but no!! It was to be looked at, but never played with.",['Monica Geller'],Joyful,1,22,3,20,01:29.5,01:38.8
+My Grandmother used to say that exact same thing to me.,['Chandler Bing'],Joyful,1,23,3,20,01:38.9,01:41.4
+"Hey, Sophie!",['Rachel Green'],Joyful,2,2,3,20,02:33.9,02:35.0
+"Hey, Rach!",['Sophie'],Joyful,2,3,3,20,02:35.2,02:36.2
+Hey.,['Chandler Bing'],Neutral,2,4,3,20,02:36.4,02:38.8
+Hey.,['Sophie'],Neutral,2,5,3,20,02:39.4,02:41.9
+"Oh, that's-that's okay, no problem.",['Chandler Bing'],Neutral,2,7,3,20,02:44.7,02:48.2
+"Yes, I realise that.",['Chandler Bing'],Neutral,2,9,3,20,02:49.2,02:52.7
+Summer catalogue!,['Rachel Green'],Joyful,2,10,3,20,02:50.7,02:52.7
+That's the stuff!,['Chandler Bing'],Joyful,2,11,3,20,02:53.4,02:55.9
+"Rachel, I need the Versachi invoice. Hello! You don't work for me.",['Joanna'],Powerful,2,13,3,20,02:57.0,03:02.4
+"Joanna, this is my friend Chandler Bing Joanna.",['Rachel Green'],Neutral,2,14,3,20,02:59.6,03:05.6
+Bing! That's a great name.,['Joanna'],Joyful,2,15,3,20,03:02.7,03:05.6
+"Thanks, it's ah, Gaelic, for 'Thy turkey's done.' So ah, I'm gonna go, nice, nice meeting you.",['Chandler Bing'],Joyful,2,16,3,20,03:05.8,03:16.2
+Me too.,['Joanna'],Joyful,2,17,3,20,03:07.7,03:10.4
+"Bye, Chandler.",['Rachel Green'],Joyful,2,18,3,20,03:10.6,03:16.2
+"So ah, what's wrong with him?",['Joanna'],Neutral,2,19,3,20,03:13.7,03:16.2
+"Oh, nothing, he's just goofy like that, I actually, hardly notice it anymore.",['Rachel Green'],Neutral,2,20,3,20,03:16.3,03:26.9
+"Oh no, no-no-no, is he ah, married, or involved with anyone?",['Joanna'],Scared,2,21,3,20,03:28.0,03:32.5
+"No!! No! He's not married, or involved, with anyone!",['Rachel Green'],Neutral,2,22,3,20,03:32.6,03:36.8
+"Oh, Rachel, actually, y'know what, forget it.",['Joanna'],Neutral,2,23,3,20,03:38.3,03:41.9
+"Well, I'll ask him for you, if you want me too?",['Rachel Green'],Neutral,2,24,3,20,03:40.1,03:45.6
+"Uh, uh, uh, I am here.",['Sophie'],Mad,2,26,3,20,03:43.1,03:45.6
+I know that.,['Joanna'],Powerful,2,27,3,20,03:45.7,03:47.4
+"Hey, Kate!",['Joey Tribbiani'],Joyful,4,2,3,20,03:47.5,03:49.6
+Morning.,['Kate Miller'],Sad,4,3,3,20,03:49.8,03:52.1
+"Listen, I ah, went to that restaurant that you were talking about last week...",['Joey Tribbiani'],Neutral,4,4,3,20,06:52.6,07:07.1
+"Hey, lovely! Come, talk to me a minute!",['The Director'],Joyful,4,5,3,20,07:02.5,07:07.1
+"And I ate the food, I had the fish, it was good, yeah. It was good, yeah...",['Joey Tribbiani'],Sad,4,6,3,20,07:11.8,07:16.1
+"Hi, oh, I'm Lauren, Kate's understudy.",['Woman'],Neutral,4,7,3,20,07:14.1,07:16.1
+"Oh, hey! Joey Tribbiani.",['Joey Tribbiani'],Peaceful,4,8,3,20,07:16.2,07:19.6
+I know! I-I'm a big fan of yours.,['Lauren'],Joyful,4,9,3,20,07:20.1,07:24.5
+What?!,['Joey Tribbiani'],Joyful,4,10,3,20,07:22.2,07:24.5
+"I used to umm, schedule my classes so I could watch Dr. Drake Remoray on Days of Our Lives.",['Lauren'],Joyful,4,11,3,20,07:25.4,07:33.7
+"Get out of here, really?!",['Joey Tribbiani'],Joyful,4,12,3,20,07:28.3,07:31.9
+Absolutely!,['Lauren'],Joyful,4,13,3,20,07:32.0,07:33.7
+Yeah?,['Joey Tribbiani'],Neutral,4,14,3,20,07:33.9,07:35.2
+"Oh but then, they went and dropped you down that elevator shaft.",['Lauren'],Sad,4,15,3,20,07:35.4,07:40.1
+They gave me the shaft all right.,['Joey Tribbiani'],Sad,4,16,3,20,07:37.2,07:40.1
+"Oh, you're so funny. Listen, umm, what are you doing after rehearsals? Do you want to get a drink, or something?",['Lauren'],Scared,4,17,3,20,07:40.3,07:50.7
+"Well Ahh, yeah! Yeah, sure, a drink sounds great.",['Joey Tribbiani'],Neutral,4,18,3,20,07:50.8,07:58.9
+Cool! I-I'll see you then.,['Lauren'],Joyful,4,19,3,20,07:56.1,07:58.9
+All right.,['Joey Tribbiani'],Peaceful,4,20,3,20,07:59.1,08:02.4
+"All right, it's time to act, my talking props.",['The Director'],Neutral,4,21,3,20,08:05.7,08:10.1
+Hey!,['Phoebe Buffay'],Joyful,5,2,3,20,08:15.2,08:16.5
+Hey!,['#ALL#'],Joyful,5,3,3,20,08:16.6,08:18.8
+"Look everybody, look at my new dollhouse!!",['Phoebe Buffay'],Joyful,5,4,3,20,08:19.0,08:26.0
+Wow!!,['Rachel Green'],Joyful,5,5,3,20,08:23.8,08:26.0
+"Look, look!",['Phoebe Buffay'],Joyful,5,6,3,20,08:26.2,08:30.9
+"Hey, what's this?!",['Ross Geller'],Neutral,5,7,3,20,08:29.6,08:30.9
+"Oh, okay, it's the slide instead of stairs. Watch this.",['Phoebe Buffay'],Joyful,5,8,3,20,08:31.1,08:35.3
+"It's very interesting, Phoebe.",['Monica Geller'],Peaceful,5,9,3,20,08:34.2,08:37.9
+What's this?,['Rachel Green'],Neutral,5,10,3,20,08:36.6,08:37.9
+"The Licorice Room, you can eat all the furniture. And, when guests come over, they can stay on the tootsie roll-away bed.",['Phoebe Buffay'],Joyful,5,11,3,20,08:39.9,08:50.4
+This is the coolest house ever!!,['Ross Geller'],Joyful,5,12,3,20,08:41.1,08:44.4
+"Hey, does anybody want to join me in the aroma room?",['Phoebe Buffay'],Joyful,5,14,3,20,08:51.7,08:58.2
+All right!,['Rachel Green'],Joyful,5,15,3,20,08:55.2,08:58.2
+I would!,['Ross Geller'],Joyful,5,16,3,20,08:58.3,09:00.7
+"Hey, guys, guys, did you see my new, china cabinet?!",['Monica Geller'],Powerful,5,17,3,20,09:00.8,09:04.9
+Uh-huh.,"['Rachel Green', 'Ross Geller']",Neutral,5,18,3,20,09:02.7,09:04.9
+"Watch, watch.",['Phoebe Buffay'],Joyful,5,19,3,20,09:05.3,09:06.3
+Ooohhhh!!,"['Rachel Green', 'Ross Geller']",Joyful,5,20,3,20,09:08.3,09:09.3
+"And, and!",['Phoebe Buffay'],Joyful,5,21,3,20,09:09.5,09:12.8
+Ahhhh!!,"['Rachel Green', 'Ross Geller']",Joyful,5,22,3,20,09:10.6,09:12.8
+"Hey, my Father's house does that!",['Chandler Bing'],Peaceful,5,23,3,20,09:13.0,09:19.9
+"O-o-o-okay, how did it go? Tell me everything.",['Rachel Green'],Peaceful,5,24,3,20,09:17.2,09:23.9
+"Well, the movie was great, dinner was great, and there's nothing like a cool, crisp New York evening.",['Chandler Bing'],Joyful,5,25,3,20,09:21.1,09:30.3
+Hmm.,['Rachel Green'],Scared,5,26,3,20,09:24.1,09:25.5
+"Of course, I didn't get to enjoy any of that, because Joanna's such a big, dull dud!",['Chandler Bing'],Mad,5,27,3,20,09:25.6,09:34.5
+Chandler is fantastic!!,['Joanna'],Joyful,6,2,3,20,09:30.4,09:34.5
+What?!,['Rachel Green'],Scared,6,3,3,20,09:36.3,09:38.7
+"Oh, I....",['Rachel Green'],Neutral,6,5,3,20,09:39.5,09:41.8
+"Oh, and he's got such a good heart! Doesn't he have a good heart?",['Joanna'],Joyful,6,6,3,20,09:46.5,09:50.9
+"Oh, I know...",['Rachel Green'],Neutral,6,7,3,20,09:48.2,09:50.9
+"Oh, I know and he's soo sweet! Listen, he said he was going to call, so put him straight through.",['Joanna'],Joyful,6,8,3,20,09:51.1,09:58.3
+Isn't this great?!,['Sophie'],Joyful,6,9,3,20,09:52.8,09:55.0
+Don't spoil it.,['Joanna'],Peaceful,6,10,3,20,09:55.2,09:58.3
+Hey.,['Joey Tribbiani'],Neutral,8,2,3,20,10:00.1,10:02.8
+Hi.,['Ross Geller'],Neutral,8,3,3,20,10:03.0,10:04.4
+Hey.,['Joey Tribbiani'],Joyful,8,4,3,20,10:04.5,10:05.8
+Hi.,['Ross Geller'],Neutral,8,6,3,20,10:05.9,10:07.5
+Hey.,['Joey Tribbiani'],Joyful,8,7,3,20,10:07.6,10:10.8
+It's a little early to be drinkin'.,['Ross Geller'],Joyful,8,9,3,20,10:11.8,10:13.7
+"No-no, things ah, finally happened with Kate.",['Joey Tribbiani'],Sad,8,10,3,20,10:49.8,10:53.7
+Ohhhhh!,['Ross Geller'],Joyful,8,11,3,20,10:51.9,10:53.7
+You're kidding?! That's great!,['Monica Geller'],Joyful,8,12,3,20,10:53.9,10:56.9
+"Oh, it was so amazing. After the love making...",['Joey Tribbiani'],Joyful,8,13,3,20,12:01.1,12:06.8
+Oh my.,['Monica Geller'],Scared,8,14,3,20,12:04.1,12:06.8
+"I'm telling ya, Joanna's got it all wrong. Okay? All I said was, 'This was fun. Let's do it again sometime. I'll give you a call.'",['Chandler Bing'],Neutral,8,16,3,20,14:24.1,14:42.9
+"Ohh, gee. I wonder why she thinks you're going to call her?",['Rachel Green'],Peaceful,8,17,3,20,14:43.1,14:49.2
+That's what you say at the end of a date.,['Chandler Bing'],Peaceful,8,18,3,20,14:50.0,14:51.9
+"You can't just say, 'Nice to meet you, good night?'",['Rachel Green'],Mad,8,19,3,20,14:52.1,14:54.9
+"Well, they always called.",['Rachel Green'],Neutral,8,22,3,20,14:55.4,15:00.6
+"Hmm, bite me.",['Monica Geller'],Mad,8,23,3,20,14:58.7,15:00.6
+Did he call?,['Joanna'],Scared,9,2,3,20,15:00.8,15:03.0
+No. Sorry.,['Rachel Green'],Sad,9,3,3,20,15:03.2,15:05.5
+Why?! Why?! He said he'd call. Why hasn't he called?,['Joanna'],Mad,9,4,3,20,15:18.9,15:32.4
+"Maybe he's intimated by really smart, strong, successful women.",['Sophie'],Peaceful,9,5,3,20,15:32.6,15:36.6
+"Sophie, would you please climb out of my butt. Why hasn't he called, Rachel? Why?",['Joanna'],Mad,9,6,3,20,15:37.1,15:44.5
+"Okay, okay. Umm, well ah, maybe he, maybe he feels awkward because you are my boss.",['Rachel Green'],Peaceful,9,7,3,20,15:41.7,15:49.7
+Awkward? Why should he feel awkward?,['Joanna'],Scared,9,8,3,20,15:44.7,15:49.7
+Well...,['Rachel Green'],Neutral,9,9,3,20,15:49.8,15:52.5
+"The only person that should feel awkward is you, and you didn't tell him not to call me, did you?",['Joanna'],Scared,9,10,3,20,15:52.7,15:59.2
+No. I...,['Rachel Green'],Neutral,9,11,3,20,15:54.7,15:56.2
+Call her! Call her now!,['Rachel Green'],Joyful,10,2,3,20,15:56.4,15:59.2
+"Multiple, so many paper cuts.",['Chandler Bing'],Scared,10,3,3,20,15:59.4,16:01.6
+"Why hasn't he called Rachel? Why? Why? I don't understand. Why? He said he'll call. Why? Why? Chandler I'm telling you she has flipped out, she's gone crazy!",['Rachel Green'],Scared,10,4,3,20,16:02.7,16:19.9
+"Oh, well give me the phone then.",['Chandler Bing'],Mad,10,5,3,20,16:20.2,16:23.4
+"Come on, this isn't funny. She thinks it's my fault that you haven't called her. You have to call her!",['Rachel Green'],Scared,10,6,3,20,16:23.5,16:30.4
+"Look, you can't call somebody after this long just to say, 'In case you didn't notice, I don't like you!'",['Chandler Bing'],Mad,10,7,3,20,16:26.4,16:33.7
+Well then you're going to have to take her out again.,['Rachel Green'],Powerful,10,8,3,20,16:30.5,16:35.9
+Nooo!! She's really dull! And she gets this gross mascara goop thing in the corner of her eye!,['Chandler Bing'],Mad,10,9,3,20,16:33.9,16:43.2
+That's fine!,['Rachel Green'],Mad,10,12,3,20,16:36.0,16:39.0
+"That's just a lot of big talk, y'know.",['Chandler Bing'],Scared,10,13,3,20,16:54.9,16:59.4
+I know.,['Rachel Green'],Mad,10,14,3,20,16:56.2,16:59.4
+Hey.,['Joey Tribbiani'],Neutral,12,2,3,20,16:59.5,17:01.7
+Hi.,['Kate Miller'],Neutral,12,3,3,20,17:01.9,17:03.5
+"So I ah, talked to Lauren, kinda told her how things were with us. Did you ah, did you talk to Marshall?",['Joey Tribbiani'],Scared,12,4,3,20,17:52.2,18:08.6
+About what?,['Kate Miller'],Neutral,12,5,3,20,17:57.8,18:00.0
+"Y'know, about what happened with us.",['Joey Tribbiani'],Powerful,12,6,3,20,18:01.3,18:06.7
+"Nooo. And there's really no reason he should find out, so ah let's not make a big deal about it, okay?",['Kate Miller'],Mad,12,7,3,20,18:10.9,18:23.5
+"What are you talking about? It was a big deal. I mean, come on you can't tell me last night didn't mean something to you. I-I was there, you're not that good an actress.",['Joey Tribbiani'],Mad,12,8,3,20,18:25.5,18:36.6
+Nooo.,['Joey Tribbiani'],Peaceful,12,10,3,20,18:27.6,18:29.8
+"Hi, Kate!",['Lauren'],Joyful,12,11,3,20,18:30.2,18:34.2
+"Hi, Lauren.",['Kate Miller'],Peaceful,12,12,3,20,18:34.4,18:36.6
+"Hi, Lauren.",['Joey Tribbiani'],Neutral,12,13,3,20,18:36.8,18:42.3
+"Hi, pig!",['Lauren'],Mad,12,14,3,20,18:38.8,18:42.3
+"Sorry I ah, I scared you in there.",['Ross Geller'],Peaceful,13,2,3,20,18:43.3,18:49.0
+"Oh, that's okay. By the way, I was just checking the shower massager.",['Monica Geller'],Peaceful,13,3,3,20,19:09.6,19:16.6
+Yeah.,['Ross Geller'],Neutral,13,4,3,20,19:12.2,19:13.3
+Hey!,['Phoebe Buffay'],Joyful,13,5,3,20,19:13.5,19:16.6
+I tried to reach you at work. There's....been a fire.,['Monica Geller'],Sad,13,6,3,20,19:16.8,19:25.5
+What?! Oh my... Oh my God!! What happened?!,['Phoebe Buffay'],Scared,13,7,3,20,19:23.3,19:28.6
+"Well, we believe it originated here. In the Aroma Room.",['Ross Geller'],Neutral,13,8,3,20,19:25.7,19:34.9
+All right. Did everyone get out okay?,['Phoebe Buffay'],Scared,13,9,3,20,19:36.0,19:40.7
+"Well, the giraffe's okay. And so is the pirate.",['Monica Geller'],Peaceful,13,10,3,20,19:38.7,19:44.6
+Ohh. What is this?,['Phoebe Buffay'],Scared,13,11,3,20,19:40.9,19:44.6
+"No Phoebe, don't look! You don't want to see what's under there!!",['Ross Geller'],Scared,13,12,3,20,19:44.7,19:48.8
+"Ohh, the-the Foster puppets!",['Phoebe Buffay'],Sad,13,13,3,20,19:46.7,19:48.8
+"It's not a big deal. It's, just it's right here, and it's all the time.",['Chandler Bing'],Neutral,14,2,3,20,19:50.6,20:02.7
+"Well, thanks again for lunch.",['Joanna'],Joyful,14,3,3,20,19:51.8,19:59.0
+"Yes, this, this was pleasant.",['Chandler Bing'],Neutral,14,4,3,20,19:57.9,19:59.0
+"It was, wasn't it?",['Joanna'],Joyful,14,6,3,20,19:59.2,20:02.7
+"The food there was, was great.",['Chandler Bing'],Joyful,14,7,3,20,20:05.0,20:14.4
+Wasn't it?,['Joanna'],Joyful,14,8,3,20,20:10.7,20:14.4
+So take care.,['Chandler Bing'],Neutral,14,9,3,20,20:15.4,20:18.5
+You too.,['Joanna'],Joyful,14,10,3,20,20:20.8,20:22.5
+"Well, this was great. I'll give you a call. We should do it again sometime.",['Chandler Bing'],Joyful,14,11,3,20,20:23.2,20:28.2
+"Great! I'm looking forward to it. Rachel, any messages?",['Joanna'],Joyful,14,12,3,20,20:28.9,20:34.9
+Sophie's desk.,['Rachel Green'],Neutral,14,13,3,20,20:31.3,20:34.9
+Chandler!! Are you gonna call her!,['Rachel Green'],Mad,14,15,3,20,20:37.2,20:39.9
+Noo!,['Chandler Bing'],Scared,14,16,3,20,20:40.1,20:41.8
+Chandler!!,['Rachel Green'],Mad,14,17,3,20,20:42.0,20:45.6
+"Look, I'm sorry. Okay? I'm weak, and pathetic, and sorry.",['Chandler Bing'],Sad,14,18,3,20,20:48.3,21:01.3
+Ahhhh-I'm not going to call you.,['Chandler Bing'],Scared,14,20,3,20,20:53.1,21:01.3
+What?,['Joanna'],Sad,14,21,3,20,20:55.3,20:57.3
+"Well, this isn't how I was hoping how this would end, but I guess I have to appreciate your honesty.",['Joanna'],Sad,14,23,3,20,21:27.7,21:37.6
+"Yeah, o-okay.",['Chandler Bing'],Neutral,14,24,3,20,21:31.9,21:35.2
+So...,['Joanna'],Neutral,14,25,3,20,21:35.7,21:37.6
+Well this is great! I'll give you a call! We should do it again sometime!,['Chandler Bing'],Joyful,14,26,3,20,21:39.0,21:46.3
+Wow! That ripped! That ripped real nice!,['Chandler Bing'],Joyful,1,2,4,2,00:03.3,00:11.4
+"How many times do I have to tell you! Ya, turn and sliiiide! Y'know, turn and slide.",['Joey Tribbiani'],Mad,1,3,4,2,00:06.0,00:16.1
+"You don't turn and slide, you throw it out! I'm tired of having to get a tetanus shot every time I get dressed!",['Chandler Bing'],Mad,1,4,4,2,00:16.3,00:26.3
+"Look, we're not throwing it out! I built this thing with my own hands!",['Joey Tribbiani'],Mad,1,5,4,2,00:26.6,00:30.5
+"All right, how about we, how 'bout we sell it.",['Chandler Bing'],Neutral,1,6,4,2,00:30.7,00:40.2
+"All right. But, you're gonna have to tell them.",['Joey Tribbiani'],Sad,1,7,4,2,00:32.1,00:40.2
+Do you mind if we stick you in another cabinet? They seem all right with it!,['Chandler Bing'],Neutral,1,8,4,2,00:35.7,00:47.3
+"Hey Monica, it's Chip.",['Chip Matthews'],Joyful,2,2,4,2,00:38.2,00:40.2
+Yesss!!,['Monica Geller'],Joyful,2,3,4,2,00:40.3,00:41.4
+Who's Chip?,['Ross Geller'],Scared,2,4,4,2,00:44.2,00:47.3
+Shhh!,['Monica Geller'],Neutral,2,5,4,2,01:37.3,01:38.6
+"Good runnin' into you at the bank today, so ah, here's my number, 555-9323. Give me a call. Later.",['Chip Matthews'],Neutral,2,6,4,2,01:38.7,01:48.0
+"Chip, is Chip Matthews.",['Monica Geller'],Neutral,2,7,4,2,01:41.1,01:44.1
+The guy who took Rachel to the prom? Why is he calling you?,['Ross Geller'],Scared,2,8,4,2,01:48.2,01:54.4
+"'Cause I ran into him at the bank, he is still soo cute.",['Monica Geller'],Joyful,2,9,4,2,01:51.1,01:58.5
+"Monica, you're so lucky! He's like the most popular guy in school!!",['Ross Geller'],Joyful,2,10,4,2,01:58.8,02:02.5
+"I know!! Chip? Hi! It's Monica. 'Kay. 'Kay. Okay. Okay, good-bye. Oh my God, we just had the best conversation!!",['Monica Geller'],Powerful,2,11,4,2,02:03.5,02:31.6
+I was just leaving.,['Ross Geller'],Neutral,2,12,4,2,02:07.4,02:09.8
+"Good! 'Cause I've got a product report to read, it's like eight pages, I hope I don't fall asleep.",['Rachel Green'],Sad,2,13,4,2,02:29.4,02:37.7
+Why? Did you write it?,['Ross Geller'],Scared,2,14,4,2,02:32.0,02:33.8
+"Wow! Look at that, Chip Matthews called. I wonder what he wants?",['Rachel Green'],Joyful,2,15,4,2,02:38.2,02:49.2
+"Well ah, actually...",['Ross Geller'],Scared,2,16,4,2,02:42.8,02:46.0
+I bet he sensed that I was ready to have sex with another guy.,['Rachel Green'],Neutral,2,17,4,2,02:46.1,02:57.0
+"Well, umm, why don't you give him a call?",['Ross Geller'],Peaceful,2,18,4,2,03:01.9,03:06.7
+Okay. Are you sure you wanna hear this?,['Rachel Green'],Scared,2,19,4,2,03:13.4,03:22.2
+"Oh, I'm sure.",['Ross Geller'],Powerful,2,20,4,2,03:17.8,03:22.2
+"Chip! Hi, it's Rachel. Rachel Green. Yeah, umm, you left me a message. Yes you did, my roommate wrote it down. Monica Geller. Ohh.",['Rachel Green'],Peaceful,2,21,4,2,03:24.1,03:44.8
+"Oh, that's right! He called to ask out Monica! That-that's gotta be embarrassing!",['Ross Geller'],Powerful,2,22,4,2,03:38.3,03:57.6
+Hey!,['Monica Geller'],Joyful,4,2,4,2,03:43.4,03:44.8
+"Umm, when were you gonna tell me that you're going out with Chip Matthews?",['Rachel Green'],Mad,4,3,4,2,06:46.0,06:58.3
+Now? Is it okay if I go out with Chip Matthews?,['Monica Geller'],Scared,4,4,4,2,06:59.0,07:05.8
+Nooo! It's not okay! I can't believe you would want to after what he did to me!,['Rachel Green'],Mad,4,5,4,2,07:02.0,07:08.7
+"What, that little thing at the prom?",['Monica Geller'],Scared,4,6,4,2,07:06.0,07:08.7
+Monica! I couldn't find him for two hours! He was having sex with Amy Welch!,['Rachel Green'],Mad,4,7,4,2,07:08.9,07:15.3
+"Come on, that was back in high school! How could that still bother you?",['Monica Geller'],Scared,4,8,4,2,07:16.6,07:19.9
+"I mean why, of all people would you want to go out with Chip?!",['Rachel Green'],Mad,4,9,4,2,07:20.1,07:22.9
+"Look, you and I went to different high schools...",['Monica Geller'],Neutral,4,10,4,2,07:23.0,07:27.9
+"Okay, that doesn't help me, because we went to the same high school.",['Rachel Green'],Mad,4,11,4,2,07:24.9,07:30.2
+"You went to one where you were popular, and you got to ride off Chip's motorcycle, and wear his letterman jacket. I went to one where I wore a band uniform they had to have specially made.",['Monica Geller'],Sad,4,12,4,2,07:28.1,07:38.9
+They had to have that specially made?!,['Rachel Green'],Sad,4,13,4,2,07:30.4,07:32.5
+It was a project for one of the Home Ec classes.,['Monica Geller'],Sad,4,14,4,2,07:40.8,07:47.3
+"Oh my God, they told us that was for the mascot!",['Rachel Green'],Scared,4,15,4,2,07:49.3,07:52.7
+"Oh, you go out with him.",['Rachel Green'],Peaceful,4,17,4,2,07:55.6,07:58.4
+"Oh, really?!",['Monica Geller'],Joyful,4,18,4,2,07:58.6,08:00.4
+"Yeah. Just, if it's possible, could you leave him somewhere and go have sex with another guy?",['Rachel Green'],Joyful,4,19,4,2,08:13.2,08:20.8
+I'll try.,['Monica Geller'],Peaceful,4,20,4,2,08:14.5,08:16.6
+So you guys having any luck getting rid of the entertainment center?,['Ross Geller'],Neutral,5,2,4,2,08:16.7,08:27.3
+"Yes, Joey has a very careful screening process. Apparently, not everyone is qualified to own wood and nails.",['Chandler Bing'],Neutral,5,4,4,2,08:31.9,08:38.5
+"Stop it! Stop it! She keeps squirming, trying to get away! Just like when she was alive.",['Phoebe Buffay'],Mad,5,5,4,2,08:35.8,08:44.6
+"So Pheebs, how long is your mom gonna be with us?",['Ross Geller'],Joyful,5,6,4,2,08:44.7,08:51.3
+Why can't you use the phone in here?,['Monica Geller'],Neutral,5,8,4,2,08:51.8,08:56.3
+"Well, I'm returning a call from a certain mom at the B-E-A-C-H. I just spelled the wrong word.",['Phoebe Buffay'],Powerful,5,9,4,2,09:09.5,09:16.2
+"So, guys, am I crazy, or does Phoebe's mom remind anyone of a cat?",['Ross Geller'],Powerful,5,10,4,2,09:16.4,09:26.4
+"Ross, don't start.",['Monica Geller'],Joyful,5,11,4,2,09:21.4,09:26.4
+"Come on, you-you can't tell me you actually believe that-that there's a woman inside that cat!",['Ross Geller'],Sad,5,12,4,2,09:28.2,09:34.7
+I believe it.,['Rachel Green'],Peaceful,5,13,4,2,09:30.4,09:34.7
+No you don't.,['Ross Geller'],Peaceful,5,14,4,2,09:35.3,09:37.0
+"Yes, I do.",['Rachel Green'],Joyful,5,15,4,2,09:38.4,09:40.8
+"No you do-y'know what, you're not gonna suck me into this.",['Ross Geller'],Mad,5,16,4,2,09:41.0,09:47.8
+"Oh sure I am, because you always have to be right.",['Rachel Green'],Mad,5,17,4,2,09:43.7,09:52.2
+"I do not always have to be-okay, okay.",['Ross Geller'],Neutral,5,18,4,2,09:46.0,09:52.2
+Jurassic Park could happen.,['Rachel Green'],Powerful,5,19,4,2,09:48.0,09:52.2
+"Wow! That's ah, that's pretty nice!",['Tony'],Joyful,6,2,4,2,09:52.3,09:54.5
+Pretty nice?,['Joey Tribbiani'],Peaceful,6,3,4,2,09:55.4,09:56.9
+"You'll have to pardon my roommate, he wanted to marry this.",['Chandler Bing'],Neutral,6,4,4,2,10:11.6,10:19.6
+"We don't have 50 bucks, but would you be willing to trade for it? We've got a canoe.",['Tony'],Neutral,6,5,4,2,10:14.6,10:24.2
+"Y'know, I, I really don't think we need a canoe.",['Chandler Bing'],Sad,6,7,4,2,10:24.3,10:35.7
+You gotta take the canoe!,['Tony'],Neutral,6,8,4,2,10:33.5,10:35.7
+"All right, just, just take the entertainment center, and then when you get home, throw the canoe away!",['Chandler Bing'],Neutral,6,9,4,2,10:35.9,10:46.4
+We're not throwing it away! I built that canoe!,['Peter'],Sad,6,10,4,2,10:46.5,10:49.6
+Good for you!!,['Joey Tribbiani'],Joyful,6,11,4,2,10:50.8,10:52.4
+"You guys, you're never gonna believe what I just found tacked up on a telephone pole! Look kinda familiar?",['Rachel Green'],Scared,7,2,4,2,10:58.0,11:07.5
+Apparently Phoebe's mother also goes by the name Julio.,['Ross Geller'],Peaceful,7,3,4,2,11:01.8,11:07.5
+"You guys, there's a little girl in Soho looking for this cat. I mean, you know what that means?!",['Rachel Green'],Peaceful,7,4,4,2,11:09.9,11:16.6
+"Yeah-eah! 200 dollar reward, split five ways!!",['Joey Tribbiani'],Joyful,7,5,4,2,11:12.5,11:16.6
+Do we have to tell her?,['Rachel Green'],Scared,7,6,4,2,11:19.5,11:20.9
+"Yes, we have to tell her!",['Ross Geller'],Powerful,7,7,4,2,11:21.1,11:25.1
+"Oh, but it's made her so happy.",['Monica Geller'],Sad,7,8,4,2,11:25.7,11:32.2
+Yeah.,['#ALL#'],Scared,7,10,4,2,11:28.3,11:32.2
+Thank you.,['Ross Geller'],Joyful,7,11,4,2,11:32.6,11:35.5
+I hate when Ross is right!,['Rachel Green'],Sad,7,12,4,2,11:35.7,11:38.6
+"He is right, isn't he?",['Monica Geller'],Scared,7,13,4,2,11:38.8,11:46.5
+"Y'know what, I think this might be one of the times he's wrong.",['Chandler Bing'],Sad,7,14,4,2,11:46.6,11:50.9
+You think?,['#ALL#'],Scared,7,15,4,2,11:49.0,11:50.9
+"Oh-no, he's right.",['Chandler Bing'],Peaceful,7,16,4,2,11:51.0,11:53.2
+Hi.,['Phoebe Buffay'],Neutral,8,2,4,2,11:58.0,12:00.2
+Hi!,['Monica Geller'],Neutral,8,3,4,2,12:02.0,12:03.2
+Hey!,['#ALL#'],Neutral,8,4,4,2,12:03.7,12:06.2
+"Uh, Pheebs, about your mom...",['Joey Tribbiani'],Neutral,8,5,4,2,12:09.1,12:14.3
+Yeah?,['Phoebe Buffay'],Neutral,8,6,4,2,12:11.1,12:14.3
+How's that going?,['Joey Tribbiani'],Neutral,8,7,4,2,12:14.4,12:16.8
+That's so sweet. I'm gonna get some coffee.,['Joey Tribbiani'],Powerful,8,9,4,2,12:19.2,12:25.1
+Huh? What'd ya say Joe? I'll be right there.,['Monica Geller'],Peaceful,8,10,4,2,12:23.5,12:34.5
+Pheebs...,['Rachel Green'],Powerful,8,12,4,2,12:28.3,12:29.5
+"I just feel so, uhh.....",['Phoebe Buffay'],Powerful,8,13,4,2,12:31.4,12:34.5
+All right!!,['Rachel Green'],Peaceful,8,14,4,2,12:36.9,12:37.9
+I'm coming already!!,['Chandler Bing'],Peaceful,8,15,4,2,12:38.4,12:41.3
+Jeez!,['Rachel Green'],Neutral,8,16,4,2,12:41.4,12:43.6
+"Hello, Chip.",['Rachel Green'],Neutral,9,3,4,2,12:48.6,12:50.2
+"Hey, Rach! How ya doin'?",['Chip Matthews'],Powerful,9,4,4,2,12:50.4,12:52.6
+"So ah, Monica ready yet?",['Chip Matthews'],Neutral,9,6,4,2,12:59.1,13:00.9
+"She'll be out in a second. So, Chip, how's umm, Amy Welch?",['Rachel Green'],Peaceful,9,7,4,2,13:13.0,13:23.3
+"Amy Welch? Wow! I haven't seen her since... So, Monica about ready?",['Chip Matthews'],Powerful,9,8,4,2,13:20.2,13:26.6
+"This is the unit for you my friend. Sturdy construction, tons of storage compartments, some big enough to fit a grown man.",['Joey Tribbiani'],Powerful,10,2,4,2,13:29.0,13:41.0
+What?!,['Guy'],Scared,10,3,4,2,13:33.1,13:35.6
+"Oh yeah! I got in there myself once. My roommate bet me five bucks that I couldn't, and then he stuck a board through the handles that locked me in. Yeah. It was funny 'til I started feeling like I was in a coffin.",['Joey Tribbiani'],Neutral,10,4,4,2,13:38.8,13:55.7
+"No, you, you can't fit in that thing. That's not deep enough.",['Guy'],Scared,10,5,4,2,13:57.9,14:01.2
+"Oh yeah? If I can't, I'll knock five bucks off the price off the unit.",['Joey Tribbiani'],Neutral,10,6,4,2,14:01.6,14:09.3
+"All right, you have yourself a deal.",['Guy'],Joyful,10,7,4,2,14:09.6,14:11.8
+Okay. See?! I told ya!,['Joey Tribbiani'],Neutral,10,8,4,2,14:11.9,14:19.2
+"Sometimes I get in here just to get away from it! Hey, a nickel!!",['Joey Tribbiani'],Joyful,10,10,4,2,14:21.7,14:29.0
+"Here, we are.",['Chip Matthews'],Neutral,11,2,4,2,14:27.0,14:29.0
+Oh my God! You still have the Chipper!,['Monica Geller'],Joyful,11,3,4,2,14:33.4,14:36.8
+The what?,['Chip Matthews'],Scared,11,4,4,2,14:34.7,14:36.8
+"No, I think it's cute.",['Chip Matthews'],Joyful,11,6,4,2,14:37.0,14:42.3
+Wow! A lipper from Chipper.,['Monica Geller'],Peaceful,11,7,4,2,14:38.7,14:42.3
+So you still in touch with anyone from high school?,['Chip Matthews'],Peaceful,11,8,4,2,14:55.1,15:02.8
+Is that all?,['Monica Geller'],Neutral,11,11,4,2,14:56.5,14:58.5
+"Ehh, y'know after high school, you just kinda lose touch. Oh yeah! I ran into Richard Dorfman.",['Chip Matthews'],Peaceful,11,12,4,2,15:21.3,15:29.0
+"Ohh, how is he?",['Monica Geller'],Peaceful,11,13,4,2,15:22.6,15:25.7
+"Not so good, Simmons and I gave him a wedgie.",['Chip Matthews'],Scared,11,14,4,2,15:29.2,15:33.3
+Isn't he an architect now?,['Monica Geller'],Peaceful,11,15,4,2,15:30.8,15:33.3
+"Yeah, they still wear underwear.",['Chip Matthews'],Joyful,11,16,4,2,15:34.6,15:37.3
+OH MY GOD!!!,['Chandler Bing'],Powerful,12,2,4,2,15:51.2,15:52.4
+WHAT?!!,['Joey Tribbiani'],Scared,12,3,4,2,15:55.0,15:56.5
+Are you all right?!,['Chandler Bing'],Scared,12,4,4,2,15:58.8,16:01.8
+Yeah...,['Joey Tribbiani'],Powerful,12,5,4,2,16:03.0,16:04.8
+What happened?!!,['Chandler Bing'],Scared,12,6,4,2,16:05.0,16:09.0
+"Awww, man! He promised he wouldn't take the chairs!!",['Joey Tribbiani'],Mad,12,7,4,2,17:26.5,17:32.9
+So-You got in voluntarily?!,['Chandler Bing'],Mad,12,10,4,2,17:29.5,17:32.9
+BEND OVER?!!!,['Chandler Bing'],Mad,12,12,4,2,17:33.8,17:35.6
+"...and then Zana, just let one rip!!",['Chip Matthews'],Joyful,13,2,4,2,17:37.8,17:43.9
+You know where I work!,['Chip Matthews'],Joyful,13,4,4,2,17:39.3,17:43.9
+I do?,['Monica Geller'],Joyful,13,5,4,2,17:48.0,17:49.8
+You still work at the multiplex?,['Monica Geller'],Sad,13,7,4,2,17:50.0,17:53.4
+"Thanks, I'm set. Do you still live with your parents?",['Monica Geller'],Joyful,13,9,4,2,19:04.0,19:10.1
+"Ohhh, man!!",['Mr. Treeger'],Joyful,1,2,4,17,00:06.9,00:09.6
+What is that?,['Joey Tribbiani'],Powerful,1,3,4,17,00:09.8,00:13.6
+Treeger's snaking the shower drain.,['Chandler Bing'],Joyful,1,4,4,17,00:11.0,00:13.6
+What in the name of hell?,['Mr. Treeger'],Peaceful,1,5,4,17,00:15.0,00:18.2
+Maybe he found you flip-flop.,['Joey Tribbiani'],Sad,1,6,4,17,00:19.8,00:21.9
+Hey!,['Chandler Bing'],Mad,1,8,4,17,00:24.1,00:26.6
+Whoa! Is this porn? What did I do? I must've hit something on the remote.,['Joey Tribbiani'],Scared,1,9,4,17,00:26.8,00:32.0
+Do we pay for this?,['Chandler Bing'],Powerful,1,10,4,17,00:29.5,00:32.0
+"No, we didn't even pay our cable bill-maybe this is how they punish us.",['Joey Tribbiani'],Neutral,1,11,4,17,00:32.2,00:39.7
+Maybe we shouldn't pay our phone bill-free phone sex.,['Chandler Bing'],Sad,1,12,4,17,00:37.4,00:43.7
+Maybe we shouldn't pay our gas bill?,['Joey Tribbiani'],Peaceful,1,13,4,17,00:40.3,00:43.7
+"Whoa, hey, that lady's all kinds of naked.",['Mr. Treeger'],Joyful,1,14,4,17,00:43.8,00:52.7
+"Yeah, Joey just pressed something on the remote and it just, came on!",['Chandler Bing'],Joyful,1,15,4,17,00:49.2,00:57.3
+"Yeah, it happened to me once. I was just flipping through the channels and bam! It was like finding money.",['Mr. Treeger'],Neutral,1,16,4,17,00:53.6,01:02.0
+Like finding money with naked people on it!,['Chandler Bing'],Powerful,1,17,4,17,01:02.1,01:06.1
+"Then I made the mistake of turning off the TV, I never got it back again. And I'm sad.",['Mr. Treeger'],Peaceful,1,18,4,17,01:06.8,01:13.3
+Why would he turn off the TV?,['Joey Tribbiani'],Neutral,1,19,4,17,01:12.2,01:20.9
+"All right, y'know what, come on, do we really have to watch this while we eat?",['Rachel Green'],Powerful,2,2,4,17,01:18.6,02:16.6
+Oh no-no-no-no!,"['Chandler Bing', 'Joey Tribbiani', 'Ross Geller']",Sad,2,3,4,17,02:13.3,02:16.6
+We don't know what could make this go away.,['Chandler Bing'],Scared,2,4,4,17,02:16.7,02:22.3
+"Yeah, so no one touches the remote. And no one touches the TV!",['Joey Tribbiani'],Sad,2,5,4,17,02:19.0,02:27.2
+And no one touches the air around the TV!,['Chandler Bing'],Peaceful,2,6,4,17,02:23.4,02:27.2
+"Imagine a protective porn bubble if you will, okay?",['Joey Tribbiani'],Mad,2,7,4,17,02:32.2,02:40.5
+"Well at least, I'm going to mute it.",['Monica Geller'],Powerful,2,8,4,17,02:38.2,02:40.5
+Oh no-no-no!,"['Chandler Bing', 'Joey Tribbiani', 'Ross Geller']",Sad,2,9,4,17,02:44.7,02:46.7
+We still have porn.,['Chandler Bing'],Scared,2,10,4,17,02:49.1,02:51.5
+Hey.,['Joey Tribbiani'],Peaceful,2,11,4,17,02:50.4,02:51.5
+Hi!,['Phoebe Buffay'],Powerful,2,12,4,17,02:51.7,02:54.1
+Hi!,['Monica Geller'],Joyful,2,13,4,17,02:55.6,02:57.3
+"Honey, what are you doing? That's too heavy.",['Rachel Green'],Powerful,2,14,4,17,03:32.9,03:36.5
+Yeah.,['Phoebe Buffay'],Neutral,2,15,4,17,03:34.7,03:36.5
+"Give it here. Oh, God.",['Rachel Green'],Powerful,2,16,4,17,03:36.6,03:40.3
+Okay.,['Monica Geller'],Peaceful,2,17,4,17,03:40.5,03:44.4
+You mean like a doctor?,['Phoebe Buffay'],Peaceful,2,20,4,17,03:47.0,03:51.7
+Pheebs! You're blocking the porn! Look out!,['Joey Tribbiani'],Scared,2,21,4,17,03:49.1,03:51.7
+Hi.,['Ross Geller'],Neutral,3,2,4,17,03:51.9,03:54.6
+Hi.,['Monica Geller'],Neutral,3,3,4,17,03:54.8,03:57.0
+"So uh, Emily just went to the airport.",['Ross Geller'],Scared,3,4,4,17,03:57.2,04:00.6
+Oh. Why didn't you take her?,['Monica Geller'],Neutral,3,5,4,17,04:00.8,04:03.2
+You must feel horrible. Hey! The guys have free porn!,['Monica Geller'],Powerful,3,7,4,17,13:29.9,13:35.0
+Nah.,['Ross Geller'],Neutral,3,8,4,17,13:32.1,13:35.0
+And why do you care so much?,['Ross Geller'],Powerful,3,12,4,17,13:36.7,13:41.4
+You had fantasies about Emily?,['Ross Geller'],Neutral,3,14,4,17,13:38.9,13:41.4
+Ahh.,['Ross Geller'],Neutral,3,18,4,17,13:40.1,13:41.4
+Do you love her?,['Monica Geller'],Joyful,3,19,4,17,13:41.6,13:44.6
+You love her!,['Monica Geller'],Powerful,3,21,4,17,13:47.6,13:50.2
+What-what is love really?,['Ross Geller'],Peaceful,3,22,4,17,13:50.4,13:52.7
+I am a good kisser.,['Ross Geller'],Peaceful,3,24,4,17,13:54.6,13:58.0
+Is that the heartbeat?,['Rachel Green'],Joyful,4,2,4,17,13:56.2,13:58.0
+That's it.,['The Doctor'],Joyful,4,3,4,17,13:58.1,14:00.0
+Oh my God!,['Phoebe Buffay'],Joyful,4,4,4,17,14:02.3,14:04.4
+Oh wow! This is so cool.,['Rachel Green'],Joyful,4,5,4,17,14:04.6,14:12.1
+"No, I'm getting three separate heartbeats.",['The Doctor'],Powerful,4,9,4,17,14:06.6,14:12.1
+Doctors are wrong all the time.,['The Doctor'],Mad,4,11,4,17,14:09.1,14:12.1
+"Well, yeah.",['Phoebe Buffay'],Joyful,4,12,4,17,14:12.3,14:13.4
+"Well, so, are-are you sure that there are three?!",['Rachel Green'],Powerful,4,13,4,17,15:49.7,15:53.4
+Definitely.,['The Doctor'],Peaceful,4,14,4,17,15:51.5,15:53.4
+What do you know?!,['Phoebe Buffay'],Neutral,4,17,4,17,15:53.5,15:56.6
+"Oh-oh, Phoebe!",['Alice Knight'],Joyful,5,2,4,17,15:56.7,15:59.1
+Ooh! Hi!,['Phoebe Buffay'],Joyful,5,3,4,17,15:59.3,16:01.2
+Yes.,['Frank Buffay Jr.'],Neutral,5,6,4,17,16:04.2,16:06.5
+"Okay, yeah well, good news, you're going to have three babies.",['Phoebe Buffay'],Joyful,5,7,4,17,16:43.2,16:48.3
+Three babies?,['Alice Knight'],Powerful,5,8,4,17,16:46.1,16:48.3
+I finally got my band!,['Frank Buffay Jr.'],Joyful,5,9,4,17,16:48.5,16:51.5
+Why would we be freaked?,['Frank Buffay Jr.'],Powerful,5,12,4,17,16:58.4,17:02.8
+Oh.,['Frank Buffay Jr.'],Joyful,5,14,4,17,17:02.9,17:06.1
+Right.,['Alice Knight'],Neutral,5,15,4,17,17:06.2,17:09.4
+"No, back to happy. Back to happy!",['Phoebe Buffay'],Powerful,5,16,4,17,17:24.7,17:26.9
+"No, Frank.",['Alice Knight'],Peaceful,5,19,4,17,17:27.1,17:31.7
+"Yeah, refrigerator college.",['Frank Buffay Jr.'],Neutral,5,21,4,17,17:31.9,17:35.7
+Yeah.,['Alice Knight'],Neutral,5,22,4,17,17:36.2,17:38.8
+You can't give up on your dream.,['Phoebe Buffay'],Peaceful,5,24,4,17,17:49.3,17:55.3
+This is the boarding call for Flight 009.,['Ticket Agent'],Neutral,6,2,4,17,18:22.3,18:24.4
+Emily!,['Ross Geller'],Powerful,6,3,4,17,18:24.5,18:25.8
+Oh my God! What are you doing here?,['Emily Waltham'],Mad,6,4,4,17,18:46.1,18:56.0
+You are so sweet.,['Emily Waltham'],Joyful,6,6,4,17,18:51.1,18:52.9
+Me too.,['Emily Waltham'],Joyful,6,8,4,17,18:53.8,18:56.0
+Oh. Thank you.,['Emily Waltham'],Powerful,6,12,4,17,18:56.4,18:58.3
+That's no problem.,['Ross Geller'],Neutral,6,13,4,17,19:02.1,19:07.7
+Hey!,['Rachel Green'],Neutral,8,2,4,17,19:06.3,19:07.7
+"Well, so, why don't you just turn it off?",['Rachel Green'],Powerful,8,4,4,17,19:57.8,20:00.5
+"Ooh, good, you're hear! Okay.",['Phoebe Buffay'],Joyful,8,6,4,17,20:03.5,20:08.4
+Hey!,['Monica Geller'],Neutral,8,7,4,17,20:09.5,20:10.7
+Hi!,['Phoebe Buffay'],Neutral,8,8,4,17,20:11.0,20:14.4
+"Well, what-what 'cha got there?",['Rachel Green'],Neutral,8,9,4,17,20:14.6,20:20.6
+Pregnant Woman Slays Four?,['Chandler Bing'],Powerful,8,11,4,17,20:18.5,20:20.6
+No!,['Phoebe Buffay'],Powerful,8,13,4,17,20:20.8,20:24.2
+Are you sure?,['Monica Geller'],Neutral,8,14,4,17,20:24.4,20:28.7
+No!,['Phoebe Buffay'],Scared,8,15,4,17,20:30.5,20:32.4
+What's the second part of your plan?,['Chandler Bing'],Scared,8,18,4,17,20:32.6,20:38.2
+My Saturn dealership.,['Phoebe Buffay'],Joyful,8,19,4,17,20:35.0,20:38.2
+Hello?,['Ross Geller'],Neutral,9,2,4,17,20:39.2,20:40.7
+Ross.,['Emily Waltham'],Neutral,9,3,4,17,20:43.0,20:44.4
+"Emily, hi! Uh, how-how was you flight?",['Ross Geller'],Powerful,9,4,4,17,20:44.9,20:52.8
+Well...,['Ross Geller'],Peaceful,10,4,4,17,20:48.9,20:51.0
+You put your fist through the wall?,['Chandler Bing'],Joyful,10,7,4,17,20:51.5,21:10.2
+You have to go to London!,['Monica Geller'],Joyful,10,9,4,17,20:54.7,21:10.2
+What?,['Ross Geller'],Scared,10,10,4,17,21:04.4,21:06.4
+"Yeah, you have to go fight for her!",['Monica Geller'],Mad,10,11,4,17,21:10.7,21:14.4
+I made fun of his accent.,['Ross Geller'],Joyful,10,14,4,17,21:15.1,21:17.1
+No.,['Ross Geller'],Neutral,10,16,4,17,21:17.2,21:19.1
+Really?,['Ross Geller'],Scared,10,18,4,17,21:19.3,21:21.8
+"All right. All right, I'm gonna do it!",['Ross Geller'],Peaceful,10,20,4,17,21:32.1,21:38.7
+All right.,['Monica Geller'],Neutral,10,21,4,17,21:36.1,21:37.2
+"Okay, good luck!",['Monica Geller'],Neutral,10,23,4,17,21:37.3,21:40.3
+Hey!,['Rachel Green'],Joyful,11,2,4,17,21:38.8,21:40.3
+I'm telling it! I'm telling it!,['Phoebe Buffay'],Joyful,11,6,4,17,21:44.7,21:49.3
+Okay.,['Rachel Green'],Peaceful,11,7,4,17,21:47.0,21:49.3
+Relaxi-Taxi!,['Rachel Green'],Joyful,11,11,4,17,21:56.1,21:58.1
+The name was my favourite part!,['Phoebe Buffay'],Neutral,11,12,4,17,22:00.1,22:02.5
+"Well, I...",['Rachel Green'],Neutral,11,15,4,17,22:05.7,22:07.7
+Oh my God! Ohh! Look at this one! It's so beautiful!,['Monica Geller'],Joyful,4,2,4,20,06:44.2,07:02.2
+"Yeah, but y'know, about have of these are gonna end up getting divorced.",['Phoebe Buffay'],Sad,4,3,4,20,06:53.7,07:04.6
+May I help you ladies?,['The Saleslady'],Joyful,4,4,4,20,06:55.9,06:58.5
+"Oh, yes, umm, I'm here to pick up a dress that you have on hold.",['Monica Geller'],Scared,4,5,4,20,07:02.3,07:11.0
+"Yes, what's the name, please?",['The Saleslady'],Neutral,4,6,4,20,07:06.8,07:08.3
+Emily Waltham.,['Monica Geller'],Neutral,4,7,4,20,07:08.5,07:11.0
+Yes! I have it right here. Would you like to try it on Ms. Waltham?,['The Saleslady'],Joyful,4,8,4,20,07:12.8,07:24.4
+Okay.,['Monica Geller'],Powerful,4,9,4,20,07:18.9,07:21.4
+You're the most beautiful bride I've ever seen.,['Phoebe Buffay'],Peaceful,4,11,4,20,07:24.5,07:40.3
+"I am, aren't I?",['Monica Geller'],Powerful,4,12,4,20,07:28.7,07:40.3
+Ms. Waltham?,['The Saleslady'],Neutral,4,13,4,20,07:37.2,07:40.3
+Yes?,['Monica Geller'],Neutral,4,14,4,20,07:41.5,07:43.1
+We're closing.,['The Saleslady'],Peaceful,4,15,4,20,07:45.0,07:46.2
+All right.,['Monica Geller'],Joyful,4,16,4,20,07:46.8,07:48.5
+And could I get my ring back?,['The Saleslady'],Neutral,4,17,4,20,07:51.2,07:55.1
+Does she use the cups? Yes! I believe she does. Does she use the plates? Yes! I believe she does.,['Monica Geller'],Powerful,6,2,4,20,08:21.4,08:37.6
+"No-no, let me in!",['Phoebe Buffay'],Joyful,6,5,4,20,08:28.2,08:29.8
+Phoebe?,['Monica Geller'],Scared,6,6,4,20,08:30.0,08:32.5
+Yeah!,['Phoebe Buffay'],Neutral,6,7,4,20,08:33.8,08:37.6
+Can you just hold on for one minute?,['Monica Geller'],Scared,6,8,4,20,08:49.8,08:56.0
+"No, you have to let me in right now!!",['Phoebe Buffay'],Mad,6,9,4,20,08:53.9,09:02.5
+Are you alone?,['Monica Geller'],Scared,6,10,4,20,08:57.3,08:58.7
+Yes!,['Phoebe Buffay'],Peaceful,6,11,4,20,08:59.9,09:02.5
+All right.,['Monica Geller'],Peaceful,6,12,4,20,09:02.7,09:03.9
+"Hey, Rachel.",['Joshua Burgin'],Neutral,8,2,4,20,09:04.1,09:05.8
+Hi!,['Rachel Green'],Neutral,8,3,4,20,09:06.0,09:08.2
+What's up? You're voice sounded all squeaky on the phone.,['Joshua Burgin'],Peaceful,8,4,4,20,11:38.2,11:46.2
+"Ohh, nothing, I just wanted to see you. See you and hug you. See you.",['Rachel Green'],Peaceful,8,5,4,20,11:46.3,11:53.1
+Great!,['Joshua Burgin'],Powerful,8,6,4,20,11:49.0,11:50.5
+Yeah! Sit!,['Rachel Green'],Peaceful,8,7,4,20,11:50.7,11:53.1
+You okay?,['Joshua Burgin'],Powerful,8,8,4,20,11:53.3,11:55.1
+"I'm more than okay, I am really, really happy! Wanna know why?",['Rachel Green'],Powerful,8,9,4,20,11:56.1,12:07.5
+Do I?,['Joshua Burgin'],Peaceful,8,10,4,20,11:59.1,12:00.5
+"Yeah, sure-sure, yeah, we're-we're-we're-we're-we're clicking.",['Joshua Burgin'],Peaceful,8,12,4,20,12:00.6,12:07.5
+"I-I gotta say, I-I-I-I'm not too sure I agree with that.",['Joshua Burgin'],Scared,8,14,4,20,12:34.5,12:42.7
+What?!,['Joshua Burgin'],Powerful,8,16,4,20,12:39.0,12:42.7
+"Wow! Uhh, Rachel uhh, you're a real special lady, but my divorce isn't final yet and, and, and we've been on four days, so I'm thinking ""No, but thanks.""",['Joshua Burgin'],Powerful,8,18,4,20,13:28.9,13:57.6
+YOU IDIOT!!!!!,['Gunther'],Mad,8,19,4,20,13:30.4,13:31.9
+"Your name, please?",['Sleep Clinic Worker'],Peaceful,9,2,4,20,13:32.1,13:35.5
+Joey Tribbiani.,['Joey Tribbiani'],Joyful,9,3,4,20,13:34.0,13:35.5
+"Um-hmm, and did you stay up all night in preparation for your sleep study. Uh, sir?",['Sleep Clinic Worker'],Powerful,9,4,4,20,13:46.4,14:09.3
+Yes he did.,['Chandler Bing'],Neutral,9,5,4,20,13:50.7,13:57.6
+"Alll right, we'll call you in a few minutes.",['Sleep Clinic Worker'],Powerful,9,6,4,20,14:09.7,14:19.2
+"Hey, check out that girl! She is really hot!",['Chandler Bing'],Powerful,9,8,4,20,14:21.2,14:26.6
+"Yeah, she is. Wow! How you doin'?",['Joey Tribbiani'],Peaceful,9,9,4,20,14:23.5,14:26.6
+What?!,['Joey Tribbiani'],Neutral,9,11,4,20,14:27.3,14:29.2
+You're coming on to the entire room! I'm Chandler.,['Chandler Bing'],Peaceful,9,12,4,20,14:29.4,14:41.5
+I'm Marjorie.,['Woman'],Peaceful,9,13,4,20,14:33.2,14:34.7
+Hi.,['Chandler Bing'],Peaceful,9,14,4,20,14:38.0,14:41.5
+Hi.,['Marjorie'],Peaceful,9,15,4,20,14:48.1,14:50.2
+You mind if I...,['Chandler Bing'],Peaceful,9,16,4,20,14:50.3,14:52.3
+"No, please.",['Marjorie'],Peaceful,9,17,4,20,14:52.5,14:53.9
+"So uh, what are you in for?",['Chandler Bing'],Peaceful,9,19,4,20,14:54.1,14:57.9
+I talk in my sleep.,['Marjorie'],Joyful,9,20,4,20,14:56.0,14:57.9
+"What a coincidence, I listen in my sleep.",['Chandler Bing'],Peaceful,9,21,4,20,15:27.3,15:37.9
+So why don't you give me your number?,['Joey Tribbiani'],Sad,9,22,4,20,17:01.5,17:05.3
+"Okay, ready?",['Monica Geller'],Neutral,10,2,4,20,17:05.7,17:07.1
+Yeah.,['Phoebe Buffay'],Neutral,10,3,4,20,17:08.9,17:10.4
+Okay.,['Monica Geller'],Neutral,10,4,4,20,17:11.8,17:13.5
+I got it! Mine!,['Phoebe Buffay'],Joyful,10,6,4,20,17:15.4,17:18.5
+Congratulations!,['Monica Geller'],Joyful,10,7,4,20,17:21.5,17:24.1
+Thank you!,['Phoebe Buffay'],Joyful,10,8,4,20,17:24.7,17:26.0
+Okay! My turn! My turn!,['Monica Geller'],Neutral,10,9,4,20,17:26.1,17:30.0
+"Okay! Okay, ready?",['Phoebe Buffay'],Neutral,10,10,4,20,17:30.1,17:32.9
+Yeah.,['Monica Geller'],Neutral,10,11,4,20,17:34.2,17:37.1
+Okay.,['Phoebe Buffay'],Neutral,10,12,4,20,17:37.5,17:40.1
+That was a terrible throw!!,['Monica Geller'],Sad,10,13,4,20,17:40.3,17:42.1
+I'm not gonna right to you! That's not real!,['Phoebe Buffay'],Neutral,10,14,4,20,21:01.2,21:05.9
+"Yeah, I think we are.",['Phoebe Buffay'],Sad,10,16,4,20,21:03.9,21:05.9
+This isn't even my dress.,['Monica Geller'],Neutral,10,17,4,20,21:06.1,21:12.1
+I'm changing out of this.,['Monica Geller'],Neutral,10,19,4,20,21:09.7,21:18.4
+Me too.,['Phoebe Buffay'],Neutral,10,20,4,20,21:17.4,21:18.4
+In like a half-hour?,['Monica Geller'],Neutral,10,21,4,20,21:22.8,21:25.6
+Me too.,['Phoebe Buffay'],Neutral,10,22,4,20,21:30.2,21:33.2
+"Okay, throw it straight this time.",['Monica Geller'],Neutral,10,23,4,20,21:38.2,21:43.5
+Okay.,['Phoebe Buffay'],Neutral,10,24,4,20,21:41.5,21:43.5
+I'm getting married next!!,['Monica Geller'],Joyful,10,26,4,20,21:44.8,22:03.8
+Yay!,['Phoebe Buffay'],Joyful,10,27,4,20,21:50.3,21:51.8
+I guess.,['Phoebe Buffay'],Sad,11,4,4,20,22:00.2,22:03.8
+Oh my God!,['Phoebe Buffay'],Powerful,11,6,4,20,22:12.6,22:14.6
