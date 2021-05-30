@@ -3,10 +3,9 @@ Transformer encoder-decoder for emotion detection in dialogues
 
 ## Quick Start:
 ------------------------------------------------------
-To run the model on test sets of four datasets, 
-1. Download the datasets using the 'SupMat__Data' link provided in the submission system, unzip the zip file to ./TodKat/datasets
-2. Download the pre-trained models from https://acl21-anonymous-public.s3.eu-west-2.amazonaws.com/save.zip , unzip the zip file to ./TodKat/save
-3. Locate to the ./TodKat/src and execute the following command in terminal:
+To run the model on test sets of four datasets,
+1. Download the pre-trained models from https://acl21-anonymous-public.s3.eu-west-2.amazonaws.com/save.zip , unzip the zip file to ./TodKat/save
+2. Locate to the ./TodKat/src and execute the following command in terminal:
     `python TodKat_dd.py` for DailyDialogue.
     `python TodKat_emory.py` for EmoryNLP.
     `python TodKat_iemocap.py` for IEMOCAP.
