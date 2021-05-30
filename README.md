@@ -1,8 +1,6 @@
 # TodKat
 Transformer encoder-decoder for emotion detection in dialogues
 
-===========================================================================================================
-
 ## Quick Start:
 ------------------------------------------------------
 To run the model on test sets of four datasets, 
@@ -31,10 +29,6 @@ ftfy==5.1
 ## Run on GPU:
 ------------------------------------------------------
 Model runs on GPU by default with cuda:0. Please change device if going to train on CPU. Saved models are trained with cuda:0, change the configurations in the saved model if you want to run them on another device.
-
-## Datasets
-------------------------------------------------------
-Datasets are downloadable via link provided in 'SupMat__Data'
 
 ## Training:
 ------------------------------------------------------
