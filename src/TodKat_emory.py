@@ -709,8 +709,8 @@ if __name__ == '__main__':
     csvDataReader = CSVDataReader('../datasets/')
     instances = csvDataReader.get_instances('emory_test_generated.csv')
     # tokenizer don't have to be the topic lm
-    # tokenizer_name = '../datasets/topic-language-model-emory'
-    tokenizer_name = 'roberta-base'
+    # tokenizer_name = 'roberta-base'
+    tokenizer_name = '../save/topic-language-model-emory'
     # whether devicepad on cuda or cpu doesn't determine the running
     #  device of model_bert. Here it's still on cpu evenif you call cuda:2
     #  Since the BERT here is from bert-base-uncased, so the BERT.bert is from amazonAWS

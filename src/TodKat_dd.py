@@ -708,7 +708,8 @@ if __name__ == '__main__':
     logging.info("Begin reading the dataset")
     csvDataReader = CSVDataReader('../datasets/')
     instances = csvDataReader.get_instances('dialogues_test.csv')
-    tokenizer_name = 'roberta-base'
+    # tokenizer_name = 'roberta-base'
+    tokenizer_name = '../save/topic-language-model-dd'
     # whether devicepad on cuda or cpu doesn't determine the running
     #  device
     # daily dialogue max_seq_length=160, emory: 108

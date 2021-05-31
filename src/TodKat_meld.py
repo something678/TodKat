@@ -712,8 +712,8 @@ if __name__ == '__main__':
     csvDataReader = CSVDataReader('../datasets/')
     instances = csvDataReader.get_instances('meld_test_generated.csv')
 
-    tokenizer_name = 'roberta-base'
-    # tokenizer_name = '../datasets/topic-language-model-meld'
+    # tokenizer_name = 'roberta-base'
+    tokenizer_name = '../save/topic-language-model-meld'
 
     tokenizer_bert = ROBERTA(tokenizer_name, max_seq_length=108, devicepad='cuda:0')
 

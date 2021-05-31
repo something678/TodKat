@@ -711,8 +711,8 @@ if __name__ == '__main__':
     logging.info("Begin reading the dataset")
     csvDataReader = CSVDataReader('../datasets/')
     instances = csvDataReader.get_instances('iemocap_test_generated.csv')
-    tokenizer_name = 'roberta-base'
-    # tokenizer_name = '../datasets/topic-language-model-iemocap'
+    # tokenizer_name = 'roberta-base'
+    tokenizer_name = '../save/topic-language-model-iemocap'
 
     tokenizer_bert = ROBERTA(tokenizer_name, max_seq_length=122, devicepad='cuda:0')
 
