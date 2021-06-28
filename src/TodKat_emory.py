@@ -614,8 +614,7 @@ if __name__ == '__main__':
     # logging.info("Begin reading the dataset")
     # csvDataReader = CSVDataReader('../datasets/')
     # instances = csvDataReader.get_instances('emory_train_generated.csv')
-    # tokenizer_name = 'roberta-base'
-    # # tokenizer_name = '../datasets/topic-language-model-emory'
+    # tokenizer_name = '../datasets/topic-language-model-emory'
     # # shorter max_text_seq_length save memory, although masking, the input to bert always consumes memory
     # # shorter max_dialogue_seq_len don't save memory, since empty seq are not input to bert
     # tokenizer_roberta = ROBERTA(tokenizer_name, max_seq_length=108, devicepad='cpu')
@@ -708,8 +707,6 @@ if __name__ == '__main__':
     logging.info("Begin reading the dataset")
     csvDataReader = CSVDataReader('../datasets/')
     instances = csvDataReader.get_instances('emory_test_generated.csv')
-    # tokenizer don't have to be the topic lm
-    # tokenizer_name = 'roberta-base'
     tokenizer_name = '../save/topic-language-model-emory'
     # whether devicepad on cuda or cpu doesn't determine the running
     #  device of model_bert. Here it's still on cpu evenif you call cuda:2

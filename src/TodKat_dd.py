@@ -614,8 +614,7 @@ if __name__ == '__main__':
     # logging.info("Begin reading the dataset")
     # csvDataReader = CSVDataReader('../datasets/')
     # instances = csvDataReader.get_instances('dialogues_train.csv')
-    # tokenizer_name = 'roberta-base'
-    # # tokenizer_name = '../datasets/topic-language-model-dd'
+    # tokenizer_name = '../datasets/topic-language-model-dd'
     # # shorter max_text_seq_length save memory, although masking, the input to bert always consumes memory
     # # shorter max_dialogue_seq_len don't save memory, since empty seq are not input to bert
     # tokenizer_roberta = ROBERTA(tokenizer_name, max_seq_length=160, devicepad='cpu')
@@ -708,7 +707,6 @@ if __name__ == '__main__':
     logging.info("Begin reading the dataset")
     csvDataReader = CSVDataReader('../datasets/')
     instances = csvDataReader.get_instances('dialogues_test.csv')
-    # tokenizer_name = 'roberta-base'
     tokenizer_name = '../save/topic-language-model-dd'
     # whether devicepad on cuda or cpu doesn't determine the running
     #  device
