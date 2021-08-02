@@ -717,7 +717,7 @@ if __name__ == '__main__':
 
     logging.info('Read test dataset')
     # daily dialogue max_seq_length = 36, emory: 25, iemocap: 112 180
-    test_data = TorchWrappedDataset(instances, tokenizer_bert, max_seq_length=80)
+    test_data = TorchWrappedDataset(instances, tokenizer_bert, max_seq_length=96)
     # can be the same the train_batch_size
     train_batch_size = 2
 
