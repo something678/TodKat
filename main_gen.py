@@ -2,10 +2,10 @@
 
 # import os
 
-import atomic_phrase_generator as apg
+import atomic_generator as atg
 
 if __name__ == '__main__':
     filename = 'datasets/dialogues_test.csv'
-    apg.run_generator(filename)
+    atg.run_generator(filename)
     # os.chdir('../')
     # print(os.getcwd())
