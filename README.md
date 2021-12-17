@@ -11,7 +11,7 @@ To run the model on test sets of four datasets,
     `python TodKat_iemocap.py` for IEMOCAP.
     `python TodKat_meld.py` for MELD. 
 
-Bug fix: the sklearn package was called erreneously, causing the extreme high macro-F1 of MELD. A hot fix is provided. Below lists the SOTA performance:
+Bug fix: the sklearn was used erreneously, causing the extreme high macro-F1 of MELD. A hot fix is provided. Below lists the updated performance:
 <table>
   <tr>
  <th colspan="2">MELD</th>
@@ -21,8 +21,8 @@ Bug fix: the sklearn package was called erreneously, causing the extreme high ma
  <td>micro-F1</td>
   </tr>
   <tr>
- <td>avg-macro-F1</td>
- <td>micro-F1</td>
+ <td>0.6547</td>
+ <td>0.6724</td>
   </tr>  
 </table>
 
