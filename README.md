@@ -11,7 +11,7 @@ To run the model on test sets of four datasets,
     `python TodKat_iemocap.py` for IEMOCAP.
     `python TodKat_meld.py` for MELD. 
 
-Bug fix: the sklearn was used erroneously, causing the extreme high macro-F1 of MELD. A hot fix is provided. Below lists the updated performance:
+Bug fix: the sklearn was used erroneously, causing the unusual high macro-F1 of MELD. A hot fix is provided. Below lists the updated performance:
 <table>
   <tr>
  <th colspan="2">MELD</th>
