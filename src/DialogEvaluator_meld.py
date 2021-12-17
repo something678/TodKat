@@ -143,14 +143,14 @@ class DialogEvaluator:
         # print(var_labels.tolist())
         # print(pred_list)
         macro_f1 = metrics.f1_score(
-            pred_list,
             grd_list,
+            pred_list,
             labels=[0, 1, 2, 3, 4, 5, 6],
             average='weighted')
         logging.info("Weighted F1-macro with neutral: {:.4f} ({}/{})\n".format(macro_f1, correct, total))
         micro_f1 = metrics.f1_score(
-            pred_list,
             grd_list,
+            pred_list,
             labels=[0, 1, 2, 3, 4, 5, 6],
             average='micro')
         logging.info("F1-micro with neutral: {:.4f} ({}/{})\n".format(micro_f1, correct, total))
