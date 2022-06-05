@@ -11,18 +11,23 @@ To run the model on test sets of four datasets,
     `python TodKat_iemocap.py` for IEMOCAP.
     `python TodKat_meld.py` for MELD. 
 
-Bug fix: the sklearn was used erroneously, causing the unusual high macro-F1 of MELD. A hot fix is provided. Below lists the updated performance:
+Bug fix: the sklearn was used erroneously, causing the unusual high macro-F1s of MELD and EMORY. A hot fix is provided. Below lists the updated performance:
 <table>
   <tr>
  <th colspan="2">MELD</th>
+ <th colspan="2">EMORY</th>
   </tr>
   <tr>
  <td>avg-macro-F1</td>
+ <td>micro-F1</td>
+  <td>avg-macro-F1</td>
  <td>micro-F1</td>
   </tr>
   <tr>
  <td>0.6547</td>
  <td>0.6724</td>
+ <td>0.3869</td>
+ <td>0.4238</td>
   </tr>  
 </table>
 
@@ -48,6 +53,7 @@ Model runs on GPU by default with cuda:0. Please change device if going to train
 
 ## Training:
 ------------------------------------------------------
+Download the save.zip and put the 'topic-language-model-<dd|emory|iemocap|meld>' folder in the '../datasets/' directory. 
 Uncomment `TodKat_dd` line 613 - line 705 to train model on DailyDialog.
 Uncomment `TodKat_emory` line 613 - line 705 to train model on EmoryNLP.
 Uncomment `TodKat_iemocap` line 614 - line 708 to train model on IEMOCAP.
