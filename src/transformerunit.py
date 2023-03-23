@@ -21,7 +21,7 @@ class TransformerUnit(nn.Module):
 
         self.config_keys = ['d_model', 'n_heads', 'out_features']
         self.d_model = d_model
-        self.n_heads = d_model
+        self.n_heads = n_heads
         self.out_features = out_features
         # activation by default the GELU
         self.transformerlayer = TransformerEncoderLayer(
